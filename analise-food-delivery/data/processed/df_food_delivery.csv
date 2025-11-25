@@ -1,0 +1,884 @@
+Order_ID,Distance_km,Distance_Level_Score,Weather,Weather_Level_Score,Traffic_Level,Traffic_Level_Score,Time_of_Day,Vehicle_Type,Preparation_Time_min,Courier_Experience_yrs,Courier_Experience,Delivery_Time_min,Delivery_Time_Total_min,Delivery_Time_Category,Speed_Mean_kmh,Minutes_per_km,Route_Minutes_per_km,Total_Level_Score
+522,"7,93",3,Windy,2,Low,1,Afternoon,Scooter,12,"1,0",Begginer,43,55,Late,"11,07","6,94","5,42",6
+738,"16,42",4,Clear,1,Medium,2,Evening,Bike,20,"2,0",Intermediate,84,104,Very Late,"11,73","6,33","5,12",7
+741,"9,52",3,Foggy,3,Low,1,Night,Scooter,28,"1,0",Begginer,59,87,Very Late,"9,68","9,14","6,2",7
+661,"7,44",3,Rainy,3,Medium,2,Afternoon,Scooter,5,"1,0",Begginer,37,42,Normal,"12,06","5,65","4,97",8
+412,"19,03",4,Clear,1,Low,1,Morning,Bike,16,"5,0",Advanced,68,84,Very Late,"16,79","4,41","3,57",6
+679,"19,4",4,Clear,1,Low,1,Evening,Scooter,8,"9,0",Senior,57,65,Very Late,"20,42","3,35","2,94",6
+514,"17,39",4,Clear,1,Medium,2,Evening,Scooter,5,"6,0",Senior,46,51,Late,"22,68","2,93","2,65",7
+860,"1,78",1,Snowy,4,Low,1,Evening,Car,20,"6,0",Senior,35,55,Late,"3,05","30,9","19,66",6
+137,"10,62",3,Foggy,3,Low,1,Evening,Scooter,29,"1,0",Begginer,73,102,Very Late,"8,73","9,6","6,87",7
+812,"16,86",4,Snowy,4,Medium,2,Afternoon,Car,13,"4,0",Advanced,88,101,Very Late,"11,5","5,99","5,22",10
+77,"15,54",4,Clear,1,Low,1,Night,Bike,29,"1,0",Begginer,76,105,Very Late,"12,27","6,76","4,89",6
+637,"10,89",3,Clear,1,High,3,Night,Bike,12,"5,0",Advanced,53,65,Very Late,"12,33","5,97","4,87",7
+974,"4,69",2,Rainy,3,Medium,2,Evening,Scooter,12,"7,0",Senior,36,48,Late,"7,82","10,23","7,68",7
+900,"2,17",1,Snowy,4,Low,1,Evening,Car,15,"3,0",Intermediate,35,50,Late,"3,72","23,04","16,13",6
+281,"17,86",4,Rainy,3,Low,1,Afternoon,Bike,5,"1,0",Begginer,50,55,Late,"21,43","3,08","2,8",8
+884,"2,53",1,Snowy,4,Low,1,Morning,Bike,6,"8,0",Senior,24,30,Fast,"6,32","11,86","9,49",6
+762,"6,58",2,Foggy,3,Low,1,Evening,Car,6,"7,0",Senior,27,33,Normal,"14,62","5,02","4,1",6
+320,"5,38",2,Clear,1,Medium,2,Evening,Scooter,26,"1,0",Begginer,47,73,Very Late,"6,87","13,57","8,74",5
+550,"15,56",4,Rainy,3,Low,1,Afternoon,Scooter,28,"0,0",Begginer,72,100,Very Late,"12,97","6,43","4,63",8
+175,"13,08",4,Rainy,3,Low,1,Morning,Car,16,"4,0",Advanced,58,74,Very Late,"13,53","5,66","4,43",8
+372,"0,86",1,Clear,1,High,3,Afternoon,Bike,26,"5,0",Advanced,37,63,Very Late,"1,39","73,26","43,02",5
+528,"5,83",2,Clear,1,High,3,Evening,Car,27,"9,0",Senior,56,83,Very Late,"6,25","14,24","9,61",6
+236,"14,59",4,Clear,1,Medium,2,Morning,Bike,15,"6,0",Senior,64,79,Very Late,"13,68","5,41","4,39",7
+102,"12,91",4,Windy,2,Medium,2,Evening,Bike,11,"6,0",Senior,56,67,Very Late,"13,83","5,19","4,34",8
+987,"13,92",4,Snowy,4,Low,1,Morning,Scooter,18,"4,0",Advanced,70,88,Very Late,"11,93","6,32","5,03",9
+903,"4,04",2,Snowy,4,Low,1,Night,Bike,11,"9,0",Senior,70,81,Very Late,"3,46","20,05","17,33",7
+948,"18,05",4,Clear,1,Medium,2,Evening,Scooter,10,"7,0",Senior,123,133,Very Late,"8,8","7,37","6,81",7
+347,"12,88",4,Clear,1,Medium,2,Morning,Scooter,8,"5,0",Advanced,52,60,Late,"14,86","4,66","4,04",7
+140,"19,45",4,Rainy,3,High,3,Morning,Scooter,20,"6,0",Senior,108,128,Very Late,"10,81","6,58","5,55",10
+622,"4,58",2,Clear,1,High,3,Morning,Scooter,22,"9,0",Senior,45,67,Very Late,"6,11","14,63","9,83",6
+500,"19,73",4,Foggy,3,Medium,2,Evening,Bike,27,"4,0",Advanced,111,138,Very Late,"10,66","6,99","5,63",9
+371,"2,47",1,Windy,2,Medium,2,Morning,Bike,27,"2,0",Intermediate,44,71,Very Late,"3,37","28,74","17,81",5
+199,"17,8",4,Snowy,4,Medium,2,Morning,Bike,16,"9,0",Senior,73,89,Very Late,"14,63","5,0","4,1",10
+688,"5,96",2,Clear,1,Medium,2,Afternoon,Bike,22,"7,0",Senior,45,67,Very Late,"7,95","11,24","7,55",5
+585,"12,85",4,Windy,2,Medium,2,Afternoon,Scooter,18,"7,0",Senior,61,79,Very Late,"12,64","6,15","4,75",8
+902,"1,02",1,Clear,1,Medium,2,Afternoon,Bike,25,"4,0",Advanced,34,59,Late,"1,8","57,84","33,33",4
+60,"6,84",2,Rainy,3,Medium,2,Night,Car,14,"8,0",Senior,47,61,Very Late,"8,73","8,92","6,87",7
+329,"8,68",3,Rainy,3,Medium,2,Morning,Bike,8,"5,0",Advanced,52,60,Late,"10,02","6,91","5,99",8
+97,"10,69",3,Clear,1,Medium,2,Night,Bike,25,"9,0",Senior,67,92,Very Late,"9,57","8,61","6,27",6
+975,"1,11",1,Clear,1,Low,1,Morning,Bike,5,"6,0",Senior,8,13,Very Fast,"8,33","11,71","7,21",3
+300,"2,16",1,Snowy,4,Low,1,Evening,Scooter,15,"0,0",Begginer,36,51,Late,"3,6","23,61","16,67",6
+278,"13,17",4,Windy,2,Medium,2,Afternoon,Bike,16,"4,0",Advanced,67,83,Very Late,"11,79","6,3","5,09",8
+925,"8,79",3,Snowy,4,Low,1,Night,Bike,14,"6,0",Senior,43,57,Late,"12,27","6,48","4,89",8
+602,"5,93",2,Clear,1,Low,1,Afternoon,Scooter,19,"3,0",Intermediate,36,55,Late,"9,88","9,27","6,07",4
+440,"2,09",1,Rainy,3,Low,1,Night,Bike,23,"2,0",Intermediate,36,59,Late,"3,48","28,23","17,22",5
+838,"7,57",3,Clear,1,Low,1,Morning,Bike,21,"0,0",Begginer,56,77,Very Late,"8,11","10,17","7,4",5
+571,"10,52",3,Rainy,3,Medium,2,Afternoon,Scooter,8,"4,0",Advanced,56,64,Very Late,"11,27","6,08","5,32",8
+880,"4,83",2,Rainy,3,Low,1,Morning,Car,25,"9,0",Senior,47,72,Very Late,"6,17","14,91","9,73",6
+262,"19,81",4,Snowy,4,Medium,2,Afternoon,Car,20,"5,0",Advanced,104,124,Very Late,"11,43","6,26","5,25",10
+579,"10,1",3,Rainy,3,Low,1,Evening,Car,8,"4,0",Advanced,50,58,Late,"12,12","5,74","4,95",7
+24,"7,64",3,Windy,2,Low,1,Afternoon,Car,10,"8,0",Senior,31,41,Normal,"14,79","5,37","4,06",6
+31,"12,35",4,Clear,1,Low,1,Morning,Scooter,10,"6,0",Senior,35,45,Normal,"21,17","3,64","2,83",6
+618,"5,9",2,Rainy,3,Low,1,Evening,Car,26,"9,0",Senior,44,70,Very Late,"8,05","11,86","7,46",6
+11,"0,9",1,Clear,1,Low,1,Afternoon,Bike,20,"8,0",Senior,23,43,Normal,"2,35","47,78","25,56",3
+222,"11,58",3,Clear,1,Medium,2,Morning,Scooter,16,"2,0",Intermediate,61,77,Very Late,"11,39","6,65","5,27",6
+821,"16,16",4,Clear,1,High,3,Afternoon,Bike,11,"1,0",Begginer,82,93,Very Late,"11,82","5,75","5,07",8
+297,"15,51",4,Clear,1,Low,1,Evening,Bike,17,"9,0",Senior,69,86,Very Late,"13,49","5,54","4,45",6
+55,"12,16",4,Windy,2,High,3,Evening,Scooter,11,"0,0",Begginer,69,80,Very Late,"10,57","6,58","5,67",9
+543,"4,96",2,Rainy,3,High,3,Morning,Bike,21,"0,0",Begginer,60,81,Very Late,"4,96","16,33","12,1",8
+210,"3,64",2,Windy,2,High,3,Evening,Bike,17,"6,0",Senior,40,57,Late,"5,46","15,66","10,99",7
+605,"2,85",1,Clear,1,Low,1,Morning,Scooter,26,"0,0",Begginer,38,64,Very Late,"4,5","22,46","13,33",3
+693,"10,4",3,Clear,1,Low,1,Evening,Bike,16,"4,0",Advanced,52,68,Very Late,"12,0","6,54","5,0",5
+663,"12,31",4,Windy,2,Low,1,Morning,Bike,29,"4,0",Advanced,68,97,Very Late,"10,86","7,88","5,52",7
+867,"3,53",2,Clear,1,Medium,2,Afternoon,Bike,13,"7,0",Senior,31,44,Normal,"6,83","12,46","8,78",5
+71,"15,56",4,Clear,1,Medium,2,Evening,Bike,14,"3,0",Intermediate,54,68,Very Late,"17,29","4,37","3,47",7
+544,"13,6",4,Clear,1,Medium,2,Afternoon,Bike,27,"0,0",Begginer,87,114,Very Late,"9,38","8,38","6,4",7
+108,"15,23",4,Snowy,4,High,3,Morning,Bike,5,"0,0",Begginer,62,67,Very Late,"14,74","4,4","4,07",11
+591,"3,21",2,Rainy,3,High,3,Night,Scooter,16,"0,0",Begginer,42,58,Late,"4,59","18,07","13,08",8
+742,"6,38",2,Snowy,4,Low,1,Evening,Bike,16,"1,0",Begginer,111,127,Very Late,"3,45","19,91","17,4",7
+293,"16,54",4,Rainy,3,Low,1,Afternoon,Scooter,6,"7,0",Senior,51,57,Late,"19,46","3,45","3,08",8
+290,"12,02",4,Clear,1,Low,1,Morning,Car,9,"7,0",Senior,41,50,Late,"17,59","4,16","3,41",6
+653,"11,94",3,Clear,1,Low,1,Evening,Bike,20,"3,0",Intermediate,69,89,Very Late,"10,38","7,45","5,78",5
+40,"9,08",3,Clear,1,Low,1,Afternoon,Scooter,14,"5,0",Advanced,49,63,Very Late,"11,12","6,94","5,4",5
+590,"3,46",2,Snowy,4,Medium,2,Morning,Scooter,23,"3,0",Intermediate,48,71,Very Late,"4,32","20,52","13,87",8
+308,"6,8",2,Foggy,3,Medium,2,Morning,Scooter,13,"7,0",Senior,46,59,Late,"8,87","8,68","6,76",7
+680,"17,38",4,Rainy,3,Medium,2,Afternoon,Scooter,11,"2,0",Intermediate,92,103,Very Late,"11,33","5,93","5,29",9
+67,"3,25",2,Clear,1,Low,1,Morning,Bike,23,"7,0",Senior,32,55,Late,"6,09","16,92","9,85",4
+276,"10,28",3,Clear,1,Medium,2,Evening,Scooter,29,"3,0",Intermediate,71,100,Very Late,"8,69","9,73","6,91",6
+68,"16,14",4,Clear,1,Low,1,Night,Car,6,"9,0",Senior,65,71,Very Late,"14,9","4,4","4,03",6
+319,"3,55",2,Clear,1,Medium,2,Evening,Bike,23,"0,0",Begginer,43,66,Very Late,"4,95","18,59","12,11",5
+999,"19,03",4,Clear,1,Low,1,Afternoon,Car,26,"5,0",Advanced,68,94,Very Late,"16,79","4,94","3,57",6
+715,"7,3",3,Clear,1,Low,1,Night,Scooter,14,"7,0",Senior,28,42,Normal,"15,64","5,75","3,84",5
+754,"7,03",3,Clear,1,Low,1,Evening,Scooter,21,"1,0",Begginer,44,65,Very Late,"9,59","9,25","6,26",5
+328,"12,43",4,Snowy,4,Low,1,Afternoon,Car,12,"0,0",Begginer,70,82,Very Late,"10,65","6,6","5,63",9
+452,"11,39",3,Rainy,3,High,3,Evening,Scooter,14,"1,0",Begginer,72,86,Very Late,"9,49","7,55","6,32",9
+523,"19,41",4,Clear,1,Low,1,Morning,Car,7,"3,0",Intermediate,48,55,Late,"24,26","2,83","2,47",6
+219,"13,17",4,Rainy,3,High,3,Evening,Scooter,17,"8,0",Senior,69,86,Very Late,"11,45","6,53","5,24",10
+788,"8,32",3,Rainy,3,Low,1,Afternoon,Car,12,"2,0",Intermediate,49,61,Very Late,"10,19","7,33","5,89",7
+765,"1,15",1,Clear,1,Low,1,Afternoon,Scooter,26,"4,0",Advanced,30,56,Late,"2,3","48,7","26,09",3
+89,"17,8",4,Windy,2,High,3,Afternoon,Car,12,"9,0",Senior,73,85,Very Late,"14,63","4,78","4,1",9
+64,"7,46",3,Clear,1,Medium,2,Evening,Bike,8,"5,0",Advanced,42,50,Late,"10,66","6,7","5,63",6
+827,"7,25",3,Clear,1,Medium,2,Afternoon,Scooter,18,"4,0",Advanced,45,63,Very Late,"9,67","8,69","6,21",6
+717,"16,7",4,Clear,1,Medium,2,Afternoon,Scooter,28,"1,0",Begginer,76,104,Very Late,"13,18","6,23","4,55",7
+352,"17,2",4,Rainy,3,High,3,Afternoon,Scooter,14,"2,0",Intermediate,94,108,Very Late,"10,98","6,28","5,47",10
+937,"0,86",1,Clear,1,Medium,2,Afternoon,Car,21,"7,0",Senior,28,49,Late,"1,84","56,98","32,56",4
+257,"18,76",4,Clear,1,Medium,2,Evening,Car,15,"2,0",Intermediate,80,95,Very Late,"14,07","5,06","4,26",7
+636,"9,22",3,Clear,1,Medium,2,Afternoon,Car,18,"9,0",Senior,57,75,Very Late,"9,71","8,13","6,18",6
+645,"2,84",1,Clear,1,Low,1,Evening,Scooter,24,"2,0",Intermediate,35,59,Late,"4,87","20,77","12,32",3
+555,"17,59",4,Clear,1,Low,1,Morning,Bike,24,"6,0",Senior,69,93,Very Late,"15,3","5,29","3,92",6
+960,"14,89",4,Snowy,4,High,3,Morning,Scooter,17,"6,0",Senior,87,104,Very Late,"10,27","6,98","5,84",11
+169,"1,3",1,Clear,1,Medium,2,Evening,Bike,22,"4,0",Advanced,31,53,Late,"2,52","40,77","23,85",4
+918,"18,99",4,Rainy,3,High,3,Afternoon,Bike,10,"6,0",Senior,70,80,Very Late,"16,28","4,21","3,69",10
+824,"8,26",3,Snowy,4,Low,1,Afternoon,Bike,15,"1,0",Begginer,57,72,Very Late,"8,69","8,72","6,9",8
+986,"10,16",3,Clear,1,High,3,Night,Bike,12,"5,0",Advanced,52,64,Very Late,"11,72","6,3","5,12",7
+87,"14,73",4,Rainy,3,Low,1,Afternoon,Bike,24,"6,0",Senior,74,98,Very Late,"11,94","6,65","5,02",8
+433,"12,56",4,Clear,1,High,3,Evening,Bike,17,"5,0",Advanced,69,86,Very Late,"10,92","6,85","5,49",8
+185,"5,53",2,Clear,1,Medium,2,Afternoon,Bike,19,"1,0",Begginer,44,63,Very Late,"7,54","11,39","7,96",5
+979,"10,18",3,Foggy,3,Medium,2,Morning,Bike,25,"3,0",Intermediate,73,98,Very Late,"8,37","9,63","7,17",8
+535,"15,5",4,Clear,1,Medium,2,Morning,Scooter,28,"9,0",Senior,91,119,Very Late,"10,22","7,68","5,87",7
+893,"16,69",4,Foggy,3,Medium,2,Evening,Scooter,8,"2,0",Intermediate,65,73,Very Late,"15,41","4,37","3,89",9
+426,"11,22",3,Windy,2,High,3,Evening,Bike,25,"5,0",Advanced,79,104,Very Late,"8,52","9,27","7,04",8
+714,"8,53",3,Clear,1,Low,1,Evening,Scooter,8,"2,0",Intermediate,41,49,Late,"12,48","5,74","4,81",5
+261,"12,49",4,Clear,1,Medium,2,Morning,Bike,25,"4,0",Advanced,77,102,Very Late,"9,73","8,17","6,16",7
+238,"0,97",1,Clear,1,Low,1,Night,Scooter,24,"8,0",Senior,26,50,Late,"2,24","51,55","26,8",3
+560,"12,6",4,Windy,2,Medium,2,Afternoon,Car,8,"6,0",Senior,58,66,Very Late,"13,03","5,24","4,6",8
+584,"6,91",2,Clear,1,Medium,2,Evening,Scooter,28,"9,0",Senior,56,84,Very Late,"7,4","12,16","8,1",5
+446,"18,97",4,Clear,1,Low,1,Evening,Car,25,"4,0",Advanced,141,166,Very Late,"8,07","8,75","7,43",6
+801,"14,29",4,Windy,2,Medium,2,Morning,Bike,14,"7,0",Senior,78,92,Very Late,"10,99","6,44","5,46",8
+600,"1,3",1,Foggy,3,Low,1,Evening,Bike,19,"5,0",Advanced,29,48,Late,"2,69","36,92","22,31",5
+850,"12,11",4,Rainy,3,Low,1,Morning,Bike,9,"5,0",Advanced,59,68,Very Late,"12,32","5,62","4,87",8
+266,"14,94",4,Clear,1,Medium,2,Morning,Bike,11,"0,0",Begginer,62,73,Very Late,"14,46","4,89","4,15",7
+996,"2,29",1,Rainy,3,High,3,Afternoon,Car,8,"8,0",Senior,80,88,Very Late,"1,72","38,43","34,93",7
+530,"17,36",4,Rainy,3,High,3,Afternoon,Bike,24,"1,0",Begginer,105,129,Very Late,"9,92","7,43","6,05",10
+56,"18,48",4,Clear,1,Medium,2,Night,Bike,8,"0,0",Begginer,82,90,Very Late,"13,52","4,87","4,44",7
+121,"16,25",4,Foggy,3,High,3,Morning,Bike,10,"5,0",Advanced,91,101,Very Late,"10,71","6,22","5,6",10
+216,"5,13",2,Clear,1,Low,1,Morning,Car,15,"4,0",Advanced,30,45,Normal,"10,26","8,77","5,85",4
+73,"0,61",1,Clear,1,Low,1,Afternoon,Scooter,10,"0,0",Begginer,16,26,Fast,"2,29","42,62","26,23",3
+45,"5,55",2,Foggy,3,High,3,Evening,Bike,18,"1,0",Begginer,116,134,Very Late,"2,87","24,14","20,9",8
+722,"4,03",2,Clear,1,Medium,2,Evening,Bike,9,"5,0",Advanced,25,34,Normal,"9,67","8,44","6,2",5
+282,"7,09",3,Snowy,4,Low,1,Morning,Scooter,13,"8,0",Senior,37,50,Late,"11,5","7,05","5,22",8
+894,"8,25",3,Clear,1,Medium,2,Afternoon,Bike,7,"9,0",Senior,28,35,Normal,"17,68","4,24","3,39",6
+915,"11,26",3,Clear,1,Low,1,Night,Bike,5,"6,0",Senior,49,54,Late,"13,79","4,8","4,35",5
+811,"19,7",4,Rainy,3,Low,1,Evening,Bike,10,"2,0",Intermediate,60,70,Very Late,"19,7","3,55","3,05",8
+245,"0,8",1,Snowy,4,High,3,Evening,Bike,14,"9,0",Senior,36,50,Late,"1,33","62,5","45,0",8
+823,"7,0",2,Rainy,3,Medium,2,Evening,Bike,17,"9,0",Senior,49,66,Very Late,"8,57","9,43","7,0",7
+322,"14,43",4,Clear,1,Medium,2,Morning,Car,14,"4,0",Advanced,113,127,Very Late,"7,66","8,8","7,83",7
+644,"6,89",2,Rainy,3,Medium,2,Afternoon,Bike,11,"6,0",Senior,43,54,Late,"9,61","7,84","6,24",7
+159,"5,13",2,Foggy,3,Medium,2,Evening,Car,25,"1,0",Begginer,60,85,Very Late,"5,13","16,57","11,7",7
+978,"1,5",1,Clear,1,Low,1,Afternoon,Bike,10,"1,0",Begginer,17,27,Fast,"5,29","18,0","11,33",3
+942,"11,31",3,Clear,1,Medium,2,Evening,Bike,7,"0,0",Begginer,54,61,Very Late,"12,57","5,39","4,77",6
+463,"15,05",4,Clear,1,Medium,2,Evening,Car,12,"2,0",Intermediate,66,78,Very Late,"13,68","5,18","4,39",7
+310,"5,78",2,Foggy,3,Low,1,Afternoon,Scooter,9,"9,0",Senior,33,42,Normal,"10,51","7,27","5,71",6
+698,"11,83",3,Clear,1,Low,1,Evening,Scooter,9,"7,0",Senior,32,41,Normal,"22,18","3,47","2,7",5
+61,"8,08",3,Foggy,3,Low,1,Morning,Bike,25,"2,0",Intermediate,61,86,Very Late,"7,95","10,64","7,55",7
+885,"16,1",4,Clear,1,Low,1,Evening,Bike,25,"0,0",Begginer,64,89,Very Late,"15,09","5,53","3,98",6
+596,"9,74",3,Rainy,3,Medium,2,Evening,Scooter,7,"8,0",Senior,37,44,Normal,"15,79","4,52","3,8",8
+768,"17,6",4,Clear,1,Low,1,Afternoon,Bike,27,"3,0",Intermediate,69,96,Very Late,"15,3","5,45","3,92",6
+650,"10,22",3,Snowy,4,Medium,2,Night,Bike,18,"1,0",Begginer,68,86,Very Late,"9,02","8,41","6,65",9
+651,"2,19",1,Clear,1,Low,1,Evening,Bike,26,"3,0",Intermediate,32,58,Late,"4,11","26,48","14,61",3
+866,"11,41",3,Windy,2,Medium,2,Afternoon,Scooter,17,"4,0",Advanced,68,85,Very Late,"10,07","7,45","5,96",7
+669,"4,14",2,Clear,1,Medium,2,Morning,Scooter,14,"2,0",Intermediate,30,44,Normal,"8,28","10,63","7,25",5
+299,"12,65",4,Rainy,3,Low,1,Afternoon,Bike,18,"8,0",Senior,60,78,Very Late,"12,65","6,17","4,74",8
+311,"9,06",3,Clear,1,Medium,2,Evening,Bike,23,"4,0",Advanced,47,70,Very Late,"11,57","7,73","5,19",6
+362,"13,04",4,Clear,1,Medium,2,Morning,Scooter,20,"6,0",Senior,65,85,Very Late,"12,04","6,52","4,98",7
+480,"10,7",3,Clear,1,Medium,2,Afternoon,Scooter,8,"5,0",Advanced,44,52,Late,"14,59","4,86","4,11",6
+111,"6,15",2,Foggy,3,Low,1,Evening,Scooter,26,"5,0",Advanced,48,74,Very Late,"7,69","12,03","7,8",6
+990,"16,47",4,Snowy,4,High,3,Evening,Scooter,20,"9,0",Senior,75,95,Very Late,"13,18","5,77","4,55",11
+487,"1,39",1,Clear,1,Medium,2,Afternoon,Bike,15,"4,0",Advanced,24,39,Normal,"3,48","28,06","17,27",4
+364,"11,14",3,Rainy,3,Medium,2,Morning,Scooter,7,"3,0",Intermediate,47,54,Late,"14,22","4,85","4,22",8
+255,"3,81",2,Rainy,3,High,3,Afternoon,Bike,5,"6,0",Senior,31,36,Normal,"7,37","9,45","8,14",8
+260,"2,39",1,Rainy,3,Medium,2,Evening,Bike,27,"7,0",Senior,43,70,Very Late,"3,33","29,29","17,99",6
+803,"11,74",3,Clear,1,High,3,Evening,Car,6,"3,0",Intermediate,54,60,Late,"13,04","5,11","4,6",7
+495,"9,54",3,Rainy,3,Medium,2,Evening,Scooter,11,"5,0",Advanced,47,58,Late,"12,18","6,08","4,93",8
+671,"3,88",2,Clear,1,Medium,2,Morning,Bike,16,"2,0",Intermediate,35,51,Late,"6,65","13,14","9,02",5
+378,"0,95",1,Rainy,3,Medium,2,Morning,Car,27,"0,0",Begginer,44,71,Very Late,"1,3","74,74","46,32",6
+527,"8,59",3,Clear,1,Low,1,Night,Scooter,17,"8,0",Senior,36,53,Late,"14,32","6,17","4,19",5
+846,"8,59",3,Clear,1,Low,1,Evening,Bike,22,"2,0",Intermediate,43,65,Very Late,"11,99","7,57","5,01",5
+356,"13,03",4,Foggy,3,Low,1,Morning,Scooter,9,"1,0",Begginer,50,59,Late,"15,64","4,53","3,84",8
+366,"8,03",3,Clear,1,Low,1,Evening,Scooter,14,"8,0",Senior,42,56,Late,"11,47","6,97","5,23",5
+943,"13,2",4,Snowy,4,Low,1,Morning,Car,14,"3,0",Intermediate,62,76,Very Late,"12,77","5,76","4,7",9
+750,"12,67",4,Clear,1,Medium,2,Evening,Car,10,"3,0",Intermediate,65,75,Very Late,"11,7","5,92","5,13",7
+830,"9,32",3,Clear,1,Low,1,Morning,Scooter,6,"5,0",Advanced,30,36,Normal,"18,64","3,86","3,22",5
+657,"6,03",2,Rainy,3,High,3,Afternoon,Car,8,"6,0",Senior,46,54,Late,"7,87","8,96","7,63",8
+200,"15,71",4,Clear,1,Low,1,Afternoon,Scooter,28,"5,0",Advanced,69,97,Very Late,"13,66","6,17","4,39",6
+214,"4,87",2,Snowy,4,High,3,Evening,Bike,16,"7,0",Senior,54,70,Very Late,"5,41","14,37","11,09",9
+409,"18,15",4,Rainy,3,High,3,Morning,Bike,22,"7,0",Senior,108,130,Very Late,"10,08","7,16","5,95",10
+333,"0,78",1,Clear,1,Medium,2,Morning,Bike,6,"1,0",Begginer,17,23,Fast,"2,75","29,49","21,79",4
+209,"0,6",1,Clear,1,Low,1,Afternoon,Bike,26,"3,0",Intermediate,30,56,Late,"1,2","93,33","50,0",3
+614,"2,09",1,Clear,1,Medium,2,Evening,Bike,5,"5,0",Advanced,16,21,Fast,"7,84","10,05","7,66",4
+30,"1,41",1,Foggy,3,Medium,2,Evening,Bike,15,"0,0",Begginer,72,87,Very Late,"1,17","61,7","51,06",6
+536,"18,92",4,Clear,1,High,3,Morning,Scooter,27,"4,0",Advanced,100,127,Very Late,"11,35","6,71","5,29",8
+696,"12,41",4,Clear,1,Medium,2,Morning,Car,10,"1,0",Begginer,51,61,Very Late,"14,6","4,92","4,11",7
+837,"18,34",4,Clear,1,High,3,Night,Bike,9,"4,0",Advanced,92,101,Very Late,"11,96","5,51","5,02",8
+597,"13,52",4,Clear,1,Low,1,Morning,Scooter,27,"1,0",Begginer,82,109,Very Late,"9,89","8,06","6,07",6
+166,"16,79",4,Foggy,3,High,3,Afternoon,Bike,24,"6,0",Senior,85,109,Very Late,"11,85","6,49","5,06",10
+919,"15,39",4,Clear,1,Medium,2,Evening,Scooter,24,"5,0",Advanced,89,113,Very Late,"10,38","7,34","5,78",7
+496,"7,39",3,Rainy,3,Medium,2,Morning,Scooter,25,"6,0",Senior,60,85,Very Late,"7,39","11,5","8,12",8
+825,"10,98",3,Rainy,3,Low,1,Morning,Scooter,10,"6,0",Senior,55,65,Very Late,"11,98","5,92","5,01",7
+66,"11,08",3,Snowy,4,Medium,2,Morning,Bike,9,"0,0",Begginer,57,66,Very Late,"11,66","5,96","5,14",9
+142,"5,41",2,Clear,1,Medium,2,Night,Bike,14,"5,0",Advanced,36,50,Late,"9,02","9,24","6,65",5
+926,"0,94",1,Clear,1,High,3,Morning,Bike,9,"6,0",Senior,21,30,Fast,"2,69","31,91","22,34",5
+828,"7,27",3,Windy,2,Low,1,Afternoon,Bike,10,"5,0",Advanced,35,45,Normal,"12,46","6,19","4,81",6
+656,"2,99",1,Windy,2,Medium,2,Morning,Bike,27,"5,0",Advanced,41,68,Very Late,"4,38","22,74","13,71",5
+332,"15,28",4,Snowy,4,Low,1,Evening,Bike,16,"5,0",Advanced,72,88,Very Late,"12,73","5,76","4,71",9
+665,"2,48",1,Windy,2,Medium,2,Afternoon,Car,14,"6,0",Senior,27,41,Normal,"5,51","16,53","10,89",5
+250,"17,13",4,Rainy,3,Low,1,Evening,Car,19,"1,0",Begginer,71,90,Very Late,"14,48","5,25","4,14",8
+908,"7,17",3,Clear,1,Low,1,Afternoon,Bike,15,"7,0",Senior,32,47,Late,"13,44","6,56","4,46",5
+709,"5,47",2,Rainy,3,Low,1,Morning,Car,21,"6,0",Senior,38,59,Late,"8,64","10,79","6,95",6
+306,"19,53",4,Foggy,3,Low,1,Afternoon,Bike,11,"6,0",Senior,87,98,Very Late,"13,47","5,02","4,45",8
+735,"7,5",3,Clear,1,High,3,Morning,Bike,29,"1,0",Begginer,66,95,Very Late,"6,82","12,67","8,8",7
+976,"5,61",2,Windy,2,Low,1,Night,Bike,25,"9,0",Senior,48,73,Very Late,"7,01","13,01","8,56",5
+50,"4,1",2,Clear,1,Low,1,Morning,Bike,21,"3,0",Intermediate,37,58,Late,"6,65","14,15","9,02",4
+897,"6,22",2,Rainy,3,Medium,2,Morning,Bike,15,"0,0",Begginer,49,64,Very Late,"7,62","10,29","7,88",7
+545,"12,55",4,Windy,2,Low,1,Evening,Bike,13,"8,0",Senior,51,64,Very Late,"14,76","5,1","4,06",7
+351,"10,31",3,Foggy,3,Medium,2,Morning,Scooter,19,"5,0",Advanced,62,81,Very Late,"9,98","7,86","6,01",8
+905,"8,72",3,Snowy,4,Medium,2,Evening,Car,18,"7,0",Senior,64,82,Very Late,"8,18","9,4","7,34",9
+537,"17,07",4,Clear,1,Medium,2,Morning,Bike,20,"6,0",Senior,73,93,Very Late,"14,03","5,45","4,28",7
+482,"14,07",4,Clear,1,High,3,Afternoon,Bike,5,"8,0",Senior,67,72,Very Late,"12,6","5,12","4,76",8
+576,"19,02",4,Clear,1,Medium,2,Afternoon,Bike,29,"9,0",Senior,87,116,Very Late,"13,12","6,1","4,57",7
+34,"19,0",4,Clear,1,High,3,Morning,Car,28,"3,0",Intermediate,96,124,Very Late,"11,88","6,53","5,05",8
+32,"3,83",2,Rainy,3,Medium,2,Afternoon,Bike,12,"9,0",Senior,30,42,Normal,"7,66","10,97","7,83",7
+232,"10,3",3,Clear,1,Low,1,Evening,Scooter,19,"8,0",Senior,48,67,Very Late,"12,88","6,5","4,66",5
+964,"8,09",3,Clear,1,High,3,Afternoon,Scooter,15,"4,0",Advanced,51,66,Very Late,"9,52","8,16","6,3",7
+193,"18,06",4,Clear,1,Medium,2,Night,Bike,9,"8,0",Senior,52,61,Very Late,"20,84","3,38","2,88",7
+334,"2,76",1,Windy,2,Medium,2,Morning,Scooter,8,"5,0",Advanced,22,30,Fast,"7,53","10,87","7,97",5
+4,"12,17",4,Snowy,4,Low,1,Evening,Bike,20,"8,0",Senior,68,88,Very Late,"10,74","7,23","5,59",9
+205,"12,33",4,Clear,1,Medium,2,Evening,Bike,22,"9,0",Senior,75,97,Very Late,"9,86","7,87","6,08",7
+515,"1,38",1,Clear,1,Medium,2,Evening,Scooter,5,"8,0",Senior,13,18,Very Fast,"6,37","13,04","9,42",4
+800,"18,49",4,Clear,1,Low,1,Afternoon,Scooter,14,"6,0",Senior,71,85,Very Late,"15,63","4,6","3,84",6
+307,"10,57",3,Snowy,4,Low,1,Afternoon,Bike,28,"9,0",Senior,59,87,Very Late,"10,75","8,23","5,58",8
+110,"2,0",1,Clear,1,High,3,Evening,Scooter,10,"2,0",Intermediate,30,40,Normal,"4,0","20,0","15,0",5
+431,"3,29",2,Clear,1,Medium,2,Afternoon,Scooter,17,"4,0",Advanced,32,49,Late,"6,17","14,89","9,73",5
+78,"1,94",1,Rainy,3,Medium,2,Morning,Bike,16,"0,0",Begginer,35,51,Late,"3,33","26,29","18,04",6
+287,"9,58",3,Clear,1,High,3,Afternoon,Car,26,"8,0",Senior,60,86,Very Late,"9,58","8,98","6,26",7
+83,"6,95",2,Clear,1,Medium,2,Morning,Scooter,25,"2,0",Intermediate,58,83,Very Late,"7,19","11,94","8,35",5
+992,"14,05",4,Clear,1,High,3,Morning,Scooter,19,"0,0",Begginer,72,91,Very Late,"11,71","6,48","5,12",8
+790,"18,97",4,Rainy,3,High,3,Night,Bike,20,"8,0",Senior,108,128,Very Late,"10,54","6,75","5,69",10
+895,"13,53",4,Rainy,3,Low,1,Evening,Bike,28,"8,0",Senior,78,106,Very Late,"10,41","7,83","5,76",8
+399,"15,14",4,Rainy,3,Medium,2,Morning,Bike,8,"6,0",Senior,66,74,Very Late,"13,76","4,89","4,36",9
+324,"5,96",2,Clear,1,Low,1,Afternoon,Bike,26,"6,0",Senior,48,74,Very Late,"7,45","12,42","8,05",4
+520,"3,43",2,Windy,2,Medium,2,Morning,Bike,7,"6,0",Senior,23,30,Fast,"8,95","8,75","6,71",6
+923,"17,94",4,Rainy,3,High,3,Evening,Scooter,22,"6,0",Senior,85,107,Very Late,"12,66","5,96","4,74",10
+6,"3,54",2,Rainy,3,Medium,2,Evening,Bike,10,"5,0",Advanced,32,42,Normal,"6,64","11,86","9,04",7
+466,"7,81",3,Clear,1,Low,1,Evening,Bike,11,"4,0",Advanced,42,53,Late,"11,16","6,79","5,38",5
+267,"14,09",4,Clear,1,Medium,2,Afternoon,Scooter,12,"3,0",Intermediate,55,67,Very Late,"15,37","4,76","3,9",7
+358,"11,92",3,Clear,1,Low,1,Afternoon,Scooter,14,"4,0",Advanced,46,60,Late,"15,55","5,03","3,86",5
+869,"17,3",4,Clear,1,Low,1,Evening,Scooter,9,"0,0",Begginer,67,76,Very Late,"15,49","4,39","3,87",6
+799,"14,08",4,Clear,1,High,3,Morning,Bike,28,"6,0",Senior,66,94,Very Late,"12,8","6,68","4,69",8
+381,"2,8",1,Clear,1,High,3,Afternoon,Bike,28,"1,0",Begginer,50,78,Very Late,"3,36","27,86","17,86",5
+382,"14,09",4,Clear,1,High,3,Afternoon,Bike,12,"6,0",Senior,67,79,Very Late,"12,62","5,61","4,76",8
+491,"9,39",3,Clear,1,Low,1,Morning,Bike,14,"2,0",Intermediate,37,51,Late,"15,23","5,43","3,94",5
+901,"4,55",2,Rainy,3,Low,1,Afternoon,Bike,5,"6,0",Senior,21,26,Fast,"13,0","5,71","4,62",6
+251,"6,24",2,Snowy,4,Low,1,Afternoon,Bike,20,"4,0",Advanced,51,71,Very Late,"7,34","11,38","8,17",7
+524,"16,92",4,Clear,1,Low,1,Morning,Scooter,29,"0,0",Begginer,70,99,Very Late,"14,5","5,85","4,14",6
+10,"14,31",4,Clear,1,Medium,2,Morning,Bike,9,"8,0",Senior,47,56,Late,"18,27","3,91","3,28",7
+604,"2,23",1,Clear,1,Low,1,Morning,Bike,7,"6,0",Senior,14,21,Fast,"9,56","9,42","6,28",3
+82,"12,65",4,Clear,1,Low,1,Evening,Bike,15,"4,0",Advanced,66,81,Very Late,"11,5","6,4","5,22",6
+784,"7,24",3,Rainy,3,Medium,2,Evening,Bike,28,"6,0",Senior,65,93,Very Late,"6,68","12,85","8,98",8
+588,"3,01",2,Clear,1,Medium,2,Evening,Bike,14,"4,0",Advanced,26,40,Normal,"6,95","13,29","8,64",5
+240,"3,95",2,Clear,1,Low,1,Afternoon,Bike,13,"5,0",Advanced,25,38,Normal,"9,48","9,62","6,33",4
+291,"1,09",1,Clear,1,Medium,2,Morning,Scooter,6,"2,0",Intermediate,17,23,Fast,"3,85","21,1","15,6",4
+212,"13,99",4,Clear,1,High,3,Evening,Scooter,7,"3,0",Intermediate,96,103,Very Late,"8,74","7,36","6,86",8
+718,"19,32",4,Rainy,3,High,3,Morning,Car,21,"7,0",Senior,112,133,Very Late,"10,35","6,88","5,8",10
+360,"11,72",3,Rainy,3,Low,1,Evening,Bike,11,"9,0",Senior,42,53,Late,"16,74","4,52","3,58",7
+450,"2,13",1,Rainy,3,Low,1,Morning,Scooter,9,"2,0",Intermediate,22,31,Normal,"5,81","14,55","10,33",5
+228,"8,17",3,Clear,1,Medium,2,Afternoon,Scooter,20,"9,0",Senior,44,64,Very Late,"11,14","7,83","5,39",6
+951,"12,21",4,Clear,1,High,3,Morning,Bike,9,"4,0",Advanced,57,66,Very Late,"12,85","5,41","4,67",8
+947,"3,17",2,Clear,1,Medium,2,Evening,Scooter,17,"6,0",Senior,33,50,Late,"5,76","15,77","10,41",5
+797,"18,68",4,Snowy,4,Low,1,Afternoon,Bike,11,"8,0",Senior,62,73,Very Late,"18,08","3,91","3,32",9
+502,"10,95",3,Clear,1,Medium,2,Evening,Scooter,24,"4,0",Advanced,55,79,Very Late,"11,95","7,21","5,02",6
+465,"19,26",4,Windy,2,Medium,2,Morning,Scooter,21,"6,0",Senior,67,88,Very Late,"17,25","4,57","3,48",8
+469,"4,86",2,Foggy,3,Medium,2,Evening,Car,25,"4,0",Advanced,52,77,Very Late,"5,61","15,84","10,7",7
+936,"5,81",2,Foggy,3,Low,1,Afternoon,Bike,25,"8,0",Senior,51,76,Very Late,"6,84","13,08","8,78",6
+429,"7,34",3,Rainy,3,Low,1,Evening,Bike,22,"8,0",Senior,47,69,Very Late,"9,37","9,4","6,4",7
+8,"17,39",4,Foggy,3,Medium,2,Morning,Bike,25,"4,0",Advanced,100,125,Very Late,"10,43","7,19","5,75",9
+156,"5,22",2,Snowy,4,Low,1,Evening,Bike,11,"9,0",Senior,40,51,Late,"7,83","9,77","7,66",7
+542,"12,32",4,Clear,1,Medium,2,Evening,Scooter,17,"4,0",Advanced,71,88,Very Late,"10,41","7,14","5,76",7
+441,"2,15",1,Windy,2,Medium,2,Afternoon,Car,17,"6,0",Senior,30,47,Late,"4,3","21,86","13,95",5
+483,"9,36",3,Rainy,3,High,3,Morning,Scooter,17,"2,0",Intermediate,65,82,Very Late,"8,64","8,76","6,94",9
+423,"2,28",1,Clear,1,Medium,2,Evening,Scooter,27,"9,0",Senior,39,66,Very Late,"3,51","28,95","17,11",4
+779,"14,54",4,Clear,1,Medium,2,Evening,Bike,29,"2,0",Intermediate,73,102,Very Late,"11,95","7,02","5,02",7
+950,"12,15",4,Clear,1,High,3,Morning,Car,12,"6,0",Senior,63,75,Very Late,"11,57","6,17","5,19",8
+335,"1,4",1,Windy,2,Low,1,Evening,Bike,9,"9,0",Senior,17,26,Fast,"4,94","18,57","12,14",4
+935,"3,85",2,Rainy,3,Medium,2,Afternoon,Bike,26,"3,0",Intermediate,46,72,Very Late,"5,02","18,7","11,95",7
+595,"17,99",4,Snowy,4,Low,1,Afternoon,Bike,15,"3,0",Intermediate,63,78,Very Late,"17,13","4,34","3,5",9
+531,"16,35",4,Clear,1,Medium,2,Morning,Bike,16,"0,0",Begginer,66,82,Very Late,"14,86","5,02","4,04",7
+582,"19,61",4,Clear,1,High,3,Evening,Bike,8,"6,0",Senior,72,80,Very Late,"16,34","4,08","3,67",8
+708,"16,29",4,Clear,1,Low,1,Morning,Bike,20,"1,0",Begginer,72,92,Very Late,"13,58","5,65","4,42",6
+449,"7,84",3,Windy,2,Low,1,Afternoon,Bike,6,"4,0",Advanced,28,34,Normal,"16,8","4,34","3,57",6
+454,"18,17",4,Rainy,3,Low,1,Afternoon,Car,13,"0,0",Begginer,71,84,Very Late,"15,35","4,62","3,91",8
+353,"13,34",4,Clear,1,Medium,2,Night,Bike,20,"6,0",Senior,53,73,Very Late,"15,1","5,47","3,97",7
+729,"4,43",2,Foggy,3,Low,1,Morning,Scooter,10,"1,0",Begginer,63,73,Very Late,"4,22","16,48","14,22",6
+80,"2,76",1,Windy,2,Medium,2,Night,Bike,6,"2,0",Intermediate,27,33,Normal,"6,13","11,96","9,78",5
+149,"1,5",1,Foggy,3,Medium,2,Evening,Scooter,15,"4,0",Advanced,32,47,Late,"2,81","31,33","21,33",6
+303,"11,04",3,Clear,1,Medium,2,Afternoon,Scooter,8,"2,0",Intermediate,54,62,Very Late,"12,27","5,62","4,89",6
+507,"18,26",4,Rainy,3,High,3,Night,Scooter,28,"7,0",Senior,93,121,Very Late,"11,78","6,63","5,09",10
+343,"3,88",2,Foggy,3,Low,1,Evening,Car,27,"9,0",Senior,42,69,Very Late,"5,54","17,78","10,82",6
+486,"18,07",4,Clear,1,High,3,Afternoon,Scooter,5,"2,0",Intermediate,67,72,Very Late,"16,18","3,98","3,71",8
+712,"12,11",4,Clear,1,Medium,2,Evening,Bike,28,"0,0",Begginer,75,103,Very Late,"9,69","8,51","6,19",7
+134,"7,08",3,Clear,1,Medium,2,Afternoon,Scooter,5,"8,0",Senior,27,32,Normal,"15,73","4,52","3,81",6
+704,"3,12",2,Rainy,3,Low,1,Evening,Scooter,14,"5,0",Advanced,28,42,Normal,"6,69","13,46","8,97",6
+312,"2,03",1,Foggy,3,High,3,Evening,Car,14,"4,0",Advanced,36,50,Late,"3,38","24,63","17,73",7
+630,"5,42",2,Clear,1,Low,1,Evening,Scooter,11,"9,0",Senior,26,37,Normal,"12,51","6,83","4,8",4
+1,"7,8",3,Clear,1,Low,1,Evening,Scooter,23,"5,0",Advanced,52,75,Very Late,"9,0","9,62","6,67",5
+317,"8,47",3,Rainy,3,Low,1,Afternoon,Scooter,19,"0,0",Begginer,48,67,Very Late,"10,59","7,91","5,67",7
+707,"6,79",2,Rainy,3,Low,1,Evening,Scooter,16,"1,0",Begginer,39,55,Late,"10,45","8,1","5,74",6
+548,"13,6",4,Rainy,3,Medium,2,Afternoon,Scooter,23,"6,0",Senior,83,106,Very Late,"9,83","7,79","6,1",9
+873,"13,06",4,Rainy,3,High,3,Morning,Bike,17,"8,0",Senior,59,76,Very Late,"13,28","5,82","4,52",10
+533,"19,93",4,Snowy,4,Low,1,Afternoon,Bike,6,"6,0",Senior,59,65,Very Late,"20,27","3,26","2,96",9
+478,"11,3",3,Snowy,4,Medium,2,Afternoon,Bike,15,"8,0",Senior,70,85,Very Late,"9,69","7,52","6,19",9
+405,"6,74",2,Rainy,3,Medium,2,Evening,Car,21,"9,0",Senior,47,68,Very Late,"8,6","10,09","6,97",7
+173,"10,49",3,Rainy,3,Low,1,Morning,Bike,28,"9,0",Senior,66,94,Very Late,"9,54","8,96","6,29",7
+395,"7,15",3,Clear,1,High,3,Night,Car,29,"7,0",Senior,60,89,Very Late,"7,15","12,45","8,39",7
+421,"15,94",4,Clear,1,Low,1,Evening,Bike,24,"2,0",Intermediate,77,101,Very Late,"12,42","6,34","4,83",6
+553,"11,26",3,Foggy,3,High,3,Afternoon,Bike,14,"2,0",Intermediate,70,84,Very Late,"9,65","7,46","6,22",9
+904,"11,87",3,Clear,1,Medium,2,Morning,Bike,10,"6,0",Senior,43,53,Late,"16,56","4,47","3,62",6
+91,"2,83",1,Windy,2,Medium,2,Afternoon,Scooter,14,"6,0",Senior,28,42,Normal,"6,06","14,84","9,89",5
+940,"11,74",3,Clear,1,Low,1,Afternoon,Car,20,"1,0",Begginer,52,72,Very Late,"13,55","6,13","4,43",5
+182,"2,71",1,Clear,1,Low,1,Morning,Scooter,6,"1,0",Begginer,20,26,Fast,"8,13","9,59","7,38",3
+275,"10,47",3,Clear,1,High,3,Evening,Scooter,14,"7,0",Senior,55,69,Very Late,"11,42","6,59","5,25",7
+896,"4,5",2,Snowy,4,High,3,Evening,Bike,24,"0,0",Begginer,66,90,Very Late,"4,09","20,0","14,67",9
+292,"1,23",1,Clear,1,Low,1,Evening,Bike,18,"6,0",Senior,21,39,Normal,"3,51","31,71","17,07",3
+132,"4,83",2,Clear,1,Low,1,Evening,Bike,11,"1,0",Begginer,29,40,Normal,"9,99","8,28","6,0",4
+301,"1,51",1,Clear,1,High,3,Afternoon,Bike,14,"2,0",Intermediate,32,46,Late,"2,83","30,46","21,19",5
+425,"1,62",1,Windy,2,Low,1,Evening,Bike,9,"8,0",Senior,16,25,Fast,"6,08","15,43","9,88",4
+327,"11,31",3,Clear,1,High,3,Evening,Bike,20,"0,0",Begginer,67,87,Very Late,"10,13","7,69","5,92",7
+145,"6,05",2,Clear,1,Medium,2,Morning,Car,24,"0,0",Begginer,48,72,Very Late,"7,56","11,9","7,93",5
+424,"10,14",3,Clear,1,Medium,2,Morning,Scooter,20,"1,0",Begginer,59,79,Very Late,"10,31","7,79","5,82",6
+581,"9,45",3,Clear,1,Low,1,Afternoon,Car,13,"0,0",Begginer,49,62,Very Late,"11,57","6,56","5,19",5
+136,"6,8",2,Clear,1,High,3,Evening,Bike,28,"5,0",Advanced,55,83,Very Late,"7,42","12,21","8,09",6
+451,"15,65",4,Clear,1,Low,1,Afternoon,Bike,27,"0,0",Begginer,76,103,Very Late,"12,36","6,58","4,86",6
+165,"2,26",1,Clear,1,Medium,2,Morning,Scooter,6,"3,0",Intermediate,19,25,Fast,"7,14","11,06","8,41",4
+29,"12,05",4,Clear,1,Low,1,Evening,Scooter,29,"4,0",Advanced,61,90,Very Late,"11,85","7,47","5,06",6
+774,"8,25",3,Windy,2,Medium,2,Evening,Car,24,"4,0",Advanced,62,86,Very Late,"7,98","10,42","7,52",7
+194,"12,85",4,Rainy,3,Medium,2,Afternoon,Scooter,23,"0,0",Begginer,80,103,Very Late,"9,64","8,02","6,23",9
+389,"15,14",4,Windy,2,Medium,2,Morning,Bike,15,"4,0",Advanced,71,86,Very Late,"12,79","5,68","4,69",8
+853,"4,59",2,Foggy,3,Low,1,Evening,Scooter,19,"8,0",Senior,36,55,Late,"7,65","11,98","7,84",6
+170,"12,02",4,Clear,1,Low,1,Afternoon,Bike,26,"0,0",Begginer,63,89,Very Late,"11,45","7,4","5,24",6
+706,"19,8",4,Clear,1,High,3,Evening,Bike,7,"3,0",Intermediate,88,95,Very Late,"13,5","4,8","4,44",8
+141,"19,27",4,Foggy,3,High,3,Afternoon,Bike,14,"6,0",Senior,92,106,Very Late,"12,57","5,5","4,77",10
+174,"4,92",2,Clear,1,High,3,Morning,Scooter,12,"0,0",Begginer,41,53,Late,"7,2","10,77","8,33",6
+7,"1,63",1,Rainy,3,Medium,2,Night,Bike,24,"5,0",Advanced,38,62,Very Late,"2,57","38,04","23,31",6
+746,"18,04",4,Clear,1,Medium,2,Morning,Bike,8,"5,0",Advanced,71,79,Very Late,"15,25","4,38","3,94",7
+74,"16,4",4,Clear,1,High,3,Morning,Scooter,12,"2,0",Intermediate,70,82,Very Late,"14,06","5,0","4,27",8
+911,"12,01",4,Clear,1,Low,1,Morning,Car,5,"7,0",Senior,42,47,Late,"17,16","3,91","3,5",6
+146,"1,22",1,Foggy,3,High,3,Afternoon,Scooter,14,"2,0",Intermediate,38,52,Late,"1,93","42,62","31,15",7
+793,"10,36",3,Rainy,3,Medium,2,Afternoon,Bike,7,"8,0",Senior,39,46,Late,"15,94","4,44","3,76",8
+235,"4,31",2,Rainy,3,Medium,2,Afternoon,Bike,9,"2,0",Intermediate,35,44,Normal,"7,39","10,21","8,12",7
+221,"13,32",4,Windy,2,Medium,2,Afternoon,Bike,26,"0,0",Begginer,71,97,Very Late,"11,26","7,28","5,33",8
+924,"16,1",4,Clear,1,Low,1,Morning,Car,16,"6,0",Senior,61,77,Very Late,"15,84","4,78","3,79",6
+501,"14,11",4,Rainy,3,High,3,Morning,Scooter,24,"3,0",Intermediate,93,117,Very Late,"9,1","8,29","6,59",10
+133,"2,84",1,Clear,1,Medium,2,Night,Scooter,28,"1,0",Begginer,44,72,Very Late,"3,87","25,35","15,49",4
+991,"16,09",4,Snowy,4,Low,1,Morning,Car,13,"6,0",Senior,69,82,Very Late,"13,99","5,1","4,29",9
+775,"16,05",4,Snowy,4,Medium,2,Evening,Bike,11,"2,0",Intermediate,89,100,Very Late,"10,82","6,23","5,55",10
+186,"13,37",4,Windy,2,High,3,Afternoon,Scooter,17,"8,0",Senior,63,80,Very Late,"12,73","5,98","4,71",9
+42,"10,16",3,Snowy,4,Medium,2,Night,Bike,10,"1,0",Begginer,67,77,Very Late,"9,1","7,58","6,59",9
+697,"6,13",2,Clear,1,Medium,2,Night,Scooter,22,"0,0",Begginer,48,70,Very Late,"7,66","11,42","7,83",5
+109,"4,96",2,Rainy,3,Low,1,Afternoon,Car,10,"7,0",Senior,28,38,Normal,"10,63","7,66","5,65",6
+589,"3,0",1,Clear,1,Low,1,Morning,Scooter,29,"1,0",Begginer,43,72,Very Late,"4,19","24,0","14,33",3
+57,"2,23",1,Snowy,4,Medium,2,Evening,Car,14,"0,0",Begginer,41,55,Late,"3,26","24,66","18,39",7
+443,"7,8",3,Rainy,3,Medium,2,Morning,Bike,11,"7,0",Senior,49,60,Late,"9,55","7,69","6,28",8
+758,"10,9",3,Clear,1,High,3,Afternoon,Scooter,6,"8,0",Senior,47,53,Late,"13,91","4,86","4,31",7
+998,"3,17",2,Clear,1,Low,1,Afternoon,Bike,17,"1,0",Begginer,28,45,Normal,"6,79","14,2","8,83",4
+25,"9,39",3,Windy,2,Medium,2,Morning,Scooter,21,"9,0",Senior,50,71,Very Late,"11,27","7,56","5,32",7
+468,"17,44",4,Clear,1,Low,1,Evening,Bike,25,"9,0",Senior,89,114,Very Late,"11,76","6,54","5,1",6
+540,"3,02",2,Rainy,3,Medium,2,Morning,Bike,23,"1,0",Begginer,46,69,Very Late,"3,94","22,85","15,23",7
+532,"19,99",4,Rainy,3,High,3,Evening,Bike,17,"1,0",Begginer,112,129,Very Late,"10,71","6,45","5,6",10
+619,"16,22",4,Rainy,3,High,3,Evening,Bike,22,"0,0",Begginer,102,124,Very Late,"9,54","7,64","6,29",10
+695,"2,74",1,Clear,1,High,3,Afternoon,Bike,18,"9,0",Senior,37,55,Late,"4,44","20,07","13,5",5
+927,"5,74",2,Rainy,3,High,3,Evening,Bike,13,"9,0",Senior,46,59,Late,"7,49","10,28","8,01",8
+339,"9,75",3,Clear,1,Low,1,Afternoon,Bike,22,"7,0",Senior,50,72,Very Late,"11,7","7,38","5,13",5
+52,"15,62",4,Rainy,3,Medium,2,Afternoon,Scooter,23,"7,0",Senior,78,101,Very Late,"12,02","6,47","4,99",9
+508,"16,54",4,Rainy,3,Medium,2,Afternoon,Bike,25,"7,0",Senior,77,102,Very Late,"12,89","6,17","4,66",9
+517,"7,84",3,Rainy,3,Low,1,Morning,Scooter,7,"8,0",Senior,36,43,Normal,"13,07","5,48","4,59",7
+782,"11,08",3,Windy,2,High,3,Afternoon,Bike,16,"6,0",Senior,70,86,Very Late,"9,5","7,76","6,32",8
+265,"17,61",4,Clear,1,Medium,2,Evening,Scooter,21,"9,0",Senior,79,100,Very Late,"13,37","5,68","4,49",7
+818,"8,28",3,Snowy,4,Low,1,Evening,Car,29,"7,0",Senior,58,87,Very Late,"8,57","10,51","7,0",8
+711,"15,32",4,Clear,1,Medium,2,Morning,Bike,17,"6,0",Senior,80,97,Very Late,"11,49","6,33","5,22",7
+683,"3,83",2,Rainy,3,Low,1,Evening,Car,27,"3,0",Intermediate,49,76,Very Late,"4,69","19,84","12,79",6
+519,"19,75",4,Clear,1,Medium,2,Morning,Bike,25,"1,0",Begginer,103,128,Very Late,"11,5","6,48","5,22",7
+448,"15,19",4,Foggy,3,Low,1,Evening,Scooter,6,"4,0",Advanced,53,59,Late,"17,2","3,88","3,49",8
+716,"18,63",4,Windy,2,Low,1,Afternoon,Bike,11,"5,0",Advanced,85,96,Very Late,"13,15","5,15","4,56",7
+484,"12,74",4,Clear,1,Low,1,Night,Scooter,18,"0,0",Begginer,67,85,Very Late,"11,41","6,67","5,26",6
+569,"18,13",4,Rainy,3,High,3,Evening,Bike,21,"2,0",Intermediate,88,109,Very Late,"12,36","6,01","4,85",10
+434,"2,47",1,Rainy,3,Low,1,Afternoon,Car,22,"6,0",Senior,34,56,Late,"4,36","22,67","13,77",5
+368,"18,15",4,Windy,2,Medium,2,Morning,Bike,11,"2,0",Intermediate,89,100,Very Late,"12,24","5,51","4,9",8
+84,"1,74",1,Foggy,3,High,3,Afternoon,Scooter,8,"9,0",Senior,28,36,Normal,"3,73","20,69","16,09",7
+62,"5,79",2,Windy,2,Medium,2,Morning,Bike,26,"6,0",Senior,49,75,Very Late,"7,09","12,95","8,46",6
+639,"5,75",2,Windy,2,High,3,Morning,Scooter,7,"4,0",Advanced,37,44,Normal,"9,32","7,65","6,43",7
+273,"17,41",4,Snowy,4,Medium,2,Evening,Bike,20,"4,0",Advanced,80,100,Very Late,"13,06","5,74","4,6",10
+286,"1,2",1,Rainy,3,Low,1,Morning,Scooter,24,"7,0",Senior,33,57,Late,"2,18","47,5","27,5",5
+361,"8,07",3,Windy,2,Low,1,Evening,Bike,21,"4,0",Advanced,48,69,Very Late,"10,09","8,55","5,95",6
+355,"1,88",1,Clear,1,Medium,2,Morning,Scooter,24,"7,0",Senior,35,59,Late,"3,22","31,38","18,62",4
+457,"0,72",1,Rainy,3,Medium,2,Afternoon,Scooter,9,"2,0",Intermediate,23,32,Normal,"1,88","44,44","31,94",6
+279,"14,19",4,Clear,1,Medium,2,Afternoon,Bike,9,"1,0",Begginer,57,66,Very Late,"14,94","4,65","4,02",7
+13,"16,73",4,Windy,2,High,3,Afternoon,Scooter,9,"7,0",Senior,71,80,Very Late,"14,14","4,78","4,24",9
+183,"18,53",4,Rainy,3,Low,1,Afternoon,Scooter,8,"8,0",Senior,57,65,Very Late,"19,51","3,51","3,08",8
+369,"4,32",2,Clear,1,Low,1,Morning,Bike,21,"9,0",Senior,34,55,Late,"7,62","12,73","7,87",4
+882,"13,6",4,Foggy,3,High,3,Evening,Bike,9,"7,0",Senior,61,70,Very Late,"13,38","5,15","4,49",10
+616,"18,46",4,Rainy,3,Low,1,Morning,Bike,19,"9,0",Senior,94,113,Very Late,"11,78","6,12","5,09",8
+224,"7,67",3,Windy,2,Low,1,Morning,Car,9,"2,0",Intermediate,31,40,Normal,"14,85","5,22","4,04",6
+573,"8,23",3,Snowy,4,Low,1,Evening,Bike,17,"3,0",Intermediate,56,73,Very Late,"8,82","8,87","6,8",8
+971,"13,44",4,Clear,1,Low,1,Night,Bike,29,"0,0",Begginer,63,92,Very Late,"12,8","6,85","4,69",6
+654,"15,04",4,Clear,1,Low,1,Morning,Car,24,"5,0",Advanced,60,84,Very Late,"15,04","5,59","3,99",6
+546,"7,48",3,Clear,1,Medium,2,Morning,Car,21,"4,0",Advanced,52,73,Very Late,"8,63","9,76","6,95",6
+634,"10,88",3,Snowy,4,Low,1,Afternoon,Car,13,"3,0",Intermediate,52,65,Very Late,"12,55","5,97","4,78",8
+177,"13,97",4,Snowy,4,Low,1,Evening,Scooter,14,"8,0",Senior,52,66,Very Late,"16,12","4,72","3,72",9
+666,"3,48",2,Foggy,3,Low,1,Afternoon,Scooter,9,"1,0",Begginer,31,40,Normal,"6,74","11,49","8,91",6
+674,"10,73",3,Foggy,3,Low,1,Morning,Bike,6,"6,0",Senior,35,41,Normal,"18,39","3,82","3,26",7
+586,"5,18",2,Clear,1,Medium,2,Afternoon,Car,9,"2,0",Intermediate,30,39,Normal,"10,36","7,53","5,79",5
+874,"8,47",3,Foggy,3,Medium,2,Evening,Bike,24,"0,0",Begginer,68,92,Very Late,"7,47","10,86","8,03",8
+249,"19,29",4,Windy,2,Medium,2,Evening,Scooter,7,"8,0",Senior,84,91,Very Late,"13,78","4,72","4,35",8
+886,"3,98",2,Clear,1,High,3,Night,Car,19,"3,0",Intermediate,41,60,Late,"5,82","15,08","10,3",6
+670,"6,06",2,Foggy,3,Low,1,Afternoon,Scooter,10,"8,0",Senior,41,51,Late,"8,87","8,42","6,77",6
+376,"6,72",2,Foggy,3,Low,1,Evening,Bike,8,"5,0",Advanced,31,39,Normal,"13,01","5,8","4,61",6
+413,"19,04",4,Clear,1,Medium,2,Morning,Scooter,27,"2,0",Intermediate,85,112,Very Late,"13,44","5,88","4,46",7
+75,"14,28",4,Windy,2,High,3,Afternoon,Scooter,23,"5,0",Advanced,77,100,Very Late,"11,13","7,0","5,39",9
+114,"16,26",4,Rainy,3,High,3,Morning,Bike,16,"6,0",Senior,70,86,Very Late,"13,94","5,29","4,31",10
+599,"4,25",2,Clear,1,Low,1,Afternoon,Bike,5,"4,0",Advanced,22,27,Fast,"11,59","6,35","5,18",4
+962,"12,26",4,Clear,1,Low,1,Afternoon,Bike,20,"2,0",Intermediate,66,86,Very Late,"11,15","7,01","5,38",6
+391,"19,81",4,Clear,1,Low,1,Afternoon,Bike,27,"1,0",Begginer,74,101,Very Late,"16,06","5,1","3,74",6
+105,"18,2",4,Windy,2,Medium,2,Morning,Bike,27,"1,0",Begginer,108,135,Very Late,"10,11","7,42","5,93",8
+115,"12,85",4,Rainy,3,Medium,2,Morning,Scooter,14,"8,0",Senior,73,87,Very Late,"10,56","6,77","5,68",9
+418,"6,91",2,Clear,1,Low,1,Evening,Bike,27,"8,0",Senior,91,118,Very Late,"4,56","17,08","13,17",4
+526,"9,64",3,Clear,1,Low,1,Morning,Bike,10,"5,0",Advanced,46,56,Late,"12,57","5,81","4,77",5
+458,"9,64",3,Rainy,3,Medium,2,Evening,Bike,14,"6,0",Senior,52,66,Very Late,"11,12","6,85","5,39",8
+410,"2,28",1,Foggy,3,Medium,2,Morning,Scooter,27,"6,0",Senior,44,71,Very Late,"3,11","31,14","19,3",6
+93,"15,34",4,Rainy,3,Low,1,Afternoon,Bike,18,"6,0",Senior,54,72,Very Late,"17,04","4,69","3,52",8
+931,"3,22",2,Rainy,3,Medium,2,Night,Bike,14,"8,0",Senior,34,48,Late,"5,68","14,91","10,56",7
+90,"9,71",3,Clear,1,Low,1,Morning,Bike,8,"1,0",Begginer,49,57,Late,"11,89","5,87","5,05",5
+337,"17,18",4,Clear,1,Medium,2,Night,Scooter,13,"1,0",Begginer,62,75,Very Late,"16,63","4,37","3,61",7
+989,"5,3",2,Clear,1,Medium,2,Afternoon,Scooter,29,"3,0",Intermediate,47,76,Very Late,"6,77","14,34","8,87",5
+922,"10,0",3,Clear,1,Medium,2,Afternoon,Scooter,6,"9,0",Senior,47,53,Late,"12,77","5,3","4,7",6
+934,"10,75",3,Rainy,3,Medium,2,Morning,Bike,8,"6,0",Senior,60,68,Very Late,"10,75","6,33","5,58",8
+606,"9,49",3,Rainy,3,Medium,2,Morning,Car,23,"6,0",Senior,53,76,Very Late,"10,74","8,01","5,58",8
+594,"7,24",3,Clear,1,Medium,2,Afternoon,Bike,28,"7,0",Senior,57,85,Very Late,"7,62","11,74","7,87",6
+612,"16,09",4,Rainy,3,Low,1,Morning,Bike,21,"8,0",Senior,66,87,Very Late,"14,63","5,41","4,1",8
+95,"15,53",4,Clear,1,Low,1,Morning,Bike,26,"6,0",Senior,83,109,Very Late,"11,23","7,02","5,34",6
+12,"19,41",4,Windy,2,Low,1,Morning,Bike,11,"8,0",Senior,62,73,Very Late,"18,78","3,76","3,19",7
+397,"17,24",4,Clear,1,Low,1,Evening,Bike,17,"5,0",Advanced,69,86,Very Late,"14,99","4,99","4,0",6
+44,"18,23",4,Rainy,3,Low,1,Afternoon,Scooter,27,"9,0",Senior,86,113,Very Late,"12,72","6,2","4,72",8
+43,"1,17",1,Clear,1,Medium,2,Morning,Bike,16,"9,0",Senior,25,41,Normal,"2,81","35,04","21,37",4
+330,"5,33",2,Clear,1,Low,1,Evening,Car,29,"1,0",Begginer,51,80,Very Late,"6,27","15,01","9,57",4
+168,"4,14",2,Rainy,3,Low,1,Morning,Bike,23,"2,0",Intermediate,41,64,Very Late,"6,06","15,46","9,9",6
+498,"2,02",1,Clear,1,High,3,Evening,Bike,28,"5,0",Advanced,44,72,Very Late,"2,75","35,64","21,78",5
+877,"14,46",4,Rainy,3,Medium,2,Morning,Scooter,11,"9,0",Senior,68,79,Very Late,"12,76","5,46","4,7",9
+598,"3,86",2,Clear,1,Medium,2,Afternoon,Bike,21,"8,0",Senior,34,55,Late,"6,81","14,25","8,81",5
+757,"12,59",4,Windy,2,Medium,2,Morning,Bike,13,"9,0",Senior,62,75,Very Late,"12,18","5,96","4,92",8
+101,"1,11",1,Clear,1,High,3,Morning,Scooter,22,"8,0",Senior,35,57,Late,"1,9","51,35","31,53",5
+427,"9,11",3,Clear,1,Low,1,Afternoon,Bike,19,"6,0",Senior,42,61,Very Late,"13,01","6,7","4,61",5
+179,"18,77",4,Snowy,4,Medium,2,Evening,Bike,24,"0,0",Begginer,115,139,Very Late,"9,79","7,41","6,13",10
+445,"16,35",4,Foggy,3,Medium,2,Night,Bike,16,"6,0",Senior,67,83,Very Late,"14,64","5,08","4,1",9
+417,"6,22",2,Clear,1,Low,1,Afternoon,Bike,16,"9,0",Senior,29,45,Normal,"12,87","7,23","4,66",4
+871,"7,78",3,Foggy,3,High,3,Afternoon,Bike,25,"3,0",Intermediate,74,99,Very Late,"6,31","12,72","9,51",9
+883,"0,88",1,Rainy,3,Low,1,Night,Car,27,"2,0",Intermediate,37,64,Very Late,"1,43","72,73","42,05",5
+681,"16,43",4,Clear,1,Low,1,Evening,Bike,13,"5,0",Advanced,56,69,Very Late,"17,6","4,2","3,41",6
+178,"8,04",3,Clear,1,Medium,2,Evening,Car,27,"0,0",Begginer,65,92,Very Late,"7,42","11,44","8,08",6
+396,"18,65",4,Foggy,3,Low,1,Night,Car,19,"2,0",Intermediate,68,87,Very Late,"16,46","4,66","3,65",8
+912,"5,73",2,Foggy,3,Low,1,Morning,Scooter,7,"2,0",Intermediate,30,37,Normal,"11,46","6,46","5,24",6
+794,"12,42",4,Rainy,3,Low,1,Evening,Bike,28,"9,0",Senior,79,107,Very Late,"9,43","8,62","6,36",8
+961,"2,11",1,Clear,1,Low,1,Afternoon,Scooter,28,"5,0",Advanced,34,62,Very Late,"3,72","29,38","16,11",3
+685,"18,62",4,Clear,1,Low,1,Evening,Scooter,27,"6,0",Senior,75,102,Very Late,"14,9","5,48","4,03",6
+384,"17,61",4,Clear,1,Medium,2,Morning,Scooter,19,"3,0",Intermediate,80,99,Very Late,"13,21","5,62","4,54",7
+957,"10,62",3,Rainy,3,Medium,2,Night,Bike,7,"2,0",Intermediate,48,55,Late,"13,27","5,18","4,52",8
+258,"14,07",4,Clear,1,Medium,2,Morning,Bike,16,"9,0",Senior,73,89,Very Late,"11,56","6,33","5,19",7
+539,"9,29",3,Clear,1,Medium,2,Evening,Bike,10,"9,0",Senior,40,50,Late,"13,93","5,38","4,31",6
+336,"1,29",1,Rainy,3,Low,1,Evening,Bike,7,"7,0",Senior,15,22,Fast,"5,16","17,05","11,63",5
+16,"4,08",2,Windy,2,Medium,2,Afternoon,Bike,7,"0,0",Begginer,33,40,Normal,"7,42","9,8","8,09",6
+325,"19,12",4,Windy,2,High,3,Evening,Car,8,"0,0",Begginer,92,100,Very Late,"12,47","5,23","4,81",9
+759,"17,93",4,Clear,1,Medium,2,Afternoon,Bike,29,"4,0",Advanced,85,114,Very Late,"12,66","6,36","4,74",7
+180,"3,18",2,Rainy,3,Medium,2,Evening,Bike,21,"3,0",Intermediate,42,63,Very Late,"4,54","19,81","13,21",7
+984,"1,97",1,Clear,1,High,3,Morning,Car,28,"7,0",Senior,43,71,Very Late,"2,75","36,04","21,83",5
+23,"6,2",2,Windy,2,High,3,Evening,Scooter,7,"3,0",Intermediate,42,49,Late,"8,86","7,9","6,77",7
+357,"1,02",1,Windy,2,High,3,Evening,Bike,6,"8,0",Senior,21,27,Fast,"2,91","26,47","20,59",6
+667,"5,3",2,Clear,1,Low,1,Evening,Bike,16,"5,0",Advanced,32,48,Late,"9,94","9,06","6,04",4
+862,"9,34",3,Rainy,3,Low,1,Evening,Car,10,"0,0",Begginer,40,50,Late,"14,01","5,35","4,28",7
+341,"10,09",3,Clear,1,Medium,2,Evening,Bike,7,"0,0",Begginer,49,56,Late,"12,36","5,55","4,86",6
+432,"15,35",4,Rainy,3,High,3,Night,Scooter,23,"9,0",Senior,80,103,Very Late,"11,51","6,71","5,21",10
+552,"17,12",4,Rainy,3,Low,1,Morning,Bike,26,"3,0",Intermediate,86,112,Very Late,"11,94","6,54","5,02",8
+834,"3,94",2,Snowy,4,Low,1,Afternoon,Bike,19,"3,0",Intermediate,43,62,Very Late,"5,5","15,74","10,91",7
+631,"14,41",4,Snowy,4,Medium,2,Evening,Bike,8,"8,0",Senior,75,83,Very Late,"11,53","5,76","5,2",10
+94,"11,44",3,Rainy,3,Medium,2,Evening,Car,20,"2,0",Intermediate,57,77,Very Late,"12,04","6,73","4,98",8
+559,"15,23",4,Foggy,3,Low,1,Morning,Car,6,"0,0",Begginer,52,58,Late,"17,57","3,81","3,41",8
+69,"1,95",1,Clear,1,Low,1,Morning,Scooter,16,"2,0",Intermediate,23,39,Normal,"5,09","20,0","11,79",3
+285,"11,78",3,Clear,1,Low,1,Afternoon,Scooter,26,"3,0",Intermediate,71,97,Very Late,"9,95","8,23","6,03",5
+845,"3,4",2,Windy,2,Medium,2,Morning,Bike,11,"6,0",Senior,30,41,Normal,"6,8","12,06","8,82",6
+435,"2,14",1,Clear,1,High,3,Evening,Bike,18,"3,0",Intermediate,34,52,Late,"3,78","24,3","15,89",5
+154,"10,04",3,Rainy,3,High,3,Afternoon,Bike,12,"9,0",Senior,59,71,Very Late,"10,21","7,07","5,88",9
+731,"3,7",2,Clear,1,Medium,2,Morning,Bike,28,"7,0",Senior,45,73,Very Late,"4,93","19,73","12,16",5
+447,"19,73",4,Rainy,3,Low,1,Evening,Bike,8,"8,0",Senior,64,72,Very Late,"18,5","3,65","3,24",8
+189,"10,83",3,Clear,1,Medium,2,Evening,Scooter,8,"9,0",Senior,51,59,Late,"12,74","5,45","4,71",6
+272,"16,3",4,Foggy,3,Low,1,Morning,Car,12,"1,0",Begginer,100,112,Very Late,"9,78","6,87","6,13",8
+237,"5,98",2,Foggy,3,High,3,Morning,Bike,14,"6,0",Senior,44,58,Late,"8,15","9,7","7,36",8
+488,"5,98",2,Rainy,3,High,3,Morning,Bike,21,"2,0",Intermediate,60,81,Very Late,"5,98","13,55","10,03",8
+118,"4,14",2,Foggy,3,Medium,2,Morning,Bike,21,"0,0",Begginer,46,67,Very Late,"5,4","16,18","11,11",7
+513,"18,69",4,Windy,2,Medium,2,Night,Bike,23,"9,0",Senior,74,97,Very Late,"15,15","5,19","3,96",8
+826,"18,44",4,Rainy,3,High,3,Morning,Bike,27,"7,0",Senior,80,107,Very Late,"13,83","5,8","4,34",10
+592,"13,0",4,Windy,2,High,3,Morning,Bike,22,"8,0",Senior,65,87,Very Late,"12,0","6,69","5,0",9
+117,"16,17",4,Clear,1,Medium,2,Evening,Car,10,"2,0",Intermediate,116,126,Very Late,"8,36","7,79","7,17",7
+474,"17,88",4,Clear,1,Medium,2,Evening,Bike,29,"3,0",Intermediate,98,127,Very Late,"10,95","7,1","5,48",7
+694,"5,23",2,Clear,1,Medium,2,Morning,Scooter,19,"4,0",Advanced,37,56,Late,"8,48","10,71","7,07",5
+864,"9,09",3,Rainy,3,Medium,2,Morning,Bike,6,"7,0",Senior,43,49,Late,"12,68","5,39","4,73",8
+913,"12,67",4,Windy,2,Medium,2,Morning,Scooter,7,"3,0",Intermediate,43,50,Late,"17,68","3,95","3,39",8
+370,"1,85",1,Clear,1,Medium,2,Evening,Bike,10,"1,0",Begginer,24,34,Normal,"4,62","18,38","12,97",4
+269,"7,51",3,Rainy,3,Low,1,Evening,Car,27,"6,0",Senior,50,77,Very Late,"9,01","10,25","6,66",7
+47,"6,58",2,Clear,1,Low,1,Afternoon,Bike,13,"1,0",Begginer,34,47,Late,"11,61","7,14","5,17",4
+350,"12,7",4,Clear,1,Low,1,Morning,Scooter,22,"2,0",Intermediate,57,79,Very Late,"13,37","6,22","4,49",6
+196,"7,31",3,Foggy,3,Medium,2,Afternoon,Bike,26,"2,0",Intermediate,65,91,Very Late,"6,75","12,45","8,89",8
+1000,"9,2",3,Clear,1,High,3,Morning,Scooter,9,"9,0",Senior,48,57,Late,"11,5","6,2","5,22",7
+835,"10,22",3,Foggy,3,Low,1,Afternoon,Scooter,21,"0,0",Begginer,61,82,Very Late,"10,05","8,02","5,97",7
+737,"8,15",3,Clear,1,High,3,Evening,Scooter,12,"9,0",Senior,43,55,Late,"11,37","6,75","5,28",7
+264,"10,61",3,Clear,1,Medium,2,Morning,Bike,17,"0,0",Begginer,59,76,Very Late,"10,79","7,16","5,56",6
+444,"7,73",3,Clear,1,High,3,Night,Bike,29,"5,0",Advanced,58,87,Very Late,"8,0","11,25","7,5",7
+676,"19,66",4,Clear,1,Low,1,Morning,Car,19,"6,0",Senior,70,89,Very Late,"16,85","4,53","3,56",6
+305,"14,66",4,Snowy,4,High,3,Morning,Car,5,"6,0",Senior,71,76,Very Late,"12,39","5,18","4,84",11
+342,"9,73",3,Clear,1,Low,1,Afternoon,Bike,29,"6,0",Senior,60,89,Very Late,"9,73","9,15","6,17",5
+967,"14,52",4,Clear,1,Medium,2,Afternoon,Car,26,"5,0",Advanced,86,112,Very Late,"10,13","7,71","5,92",7
+125,"4,94",2,Rainy,3,High,3,Evening,Scooter,28,"4,0",Advanced,63,91,Very Late,"4,7","18,42","12,75",8
+787,"11,88",3,Rainy,3,High,3,Afternoon,Car,29,"9,0",Senior,78,107,Very Late,"9,14","9,01","6,57",9
+51,"19,41",4,Foggy,3,Medium,2,Morning,Car,7,"6,0",Senior,66,73,Very Late,"17,65","3,76","3,4",9
+928,"11,06",3,Clear,1,High,3,Evening,Bike,6,"9,0",Senior,53,59,Late,"12,52","5,33","4,79",7
+143,"10,2",3,Rainy,3,Medium,2,Afternoon,Bike,18,"9,0",Senior,56,74,Very Late,"10,93","7,25","5,49",8
+471,"0,74",1,Rainy,3,Low,1,Morning,Car,13,"4,0",Advanced,21,34,Normal,"2,11","45,95","28,38",5
+400,"15,21",4,Snowy,4,Medium,2,Afternoon,Bike,20,"9,0",Senior,90,110,Very Late,"10,14","7,23","5,92",10
+626,"7,69",3,Rainy,3,High,3,Morning,Scooter,16,"3,0",Intermediate,58,74,Very Late,"7,96","9,62","7,54",9
+321,"11,21",3,Clear,1,High,3,Afternoon,Scooter,23,"1,0",Begginer,76,99,Very Late,"8,85","8,83","6,78",7
+20,"6,18",2,Clear,1,Medium,2,Evening,Bike,9,"9,0",Senior,35,44,Normal,"10,59","7,12","5,66",5
+810,"2,71",1,Clear,1,Medium,2,Morning,Car,6,"5,0",Advanced,19,25,Fast,"8,56","9,23","7,01",4
+791,"3,49",2,Clear,1,Medium,2,Morning,Bike,17,"2,0",Intermediate,38,55,Late,"5,51","15,76","10,89",5
+809,"9,29",3,Clear,1,Medium,2,Morning,Bike,17,"2,0",Intermediate,49,66,Very Late,"11,38","7,1","5,27",6
+408,"0,71",1,Foggy,3,Low,1,Night,Bike,29,"1,0",Begginer,41,70,Very Late,"1,04","98,59","57,75",5
+538,"5,32",2,Rainy,3,Low,1,Afternoon,Scooter,27,"2,0",Intermediate,48,75,Very Late,"6,65","14,1","9,02",6
+621,"4,1",2,Clear,1,Medium,2,Evening,Car,18,"3,0",Intermediate,38,56,Late,"6,47","13,66","9,27",5
+176,"3,9",2,Rainy,3,High,3,Morning,Car,25,"9,0",Senior,54,79,Very Late,"4,33","20,26","13,85",8
+246,"18,6",4,Rainy,3,Medium,2,Morning,Car,28,"9,0",Senior,77,105,Very Late,"14,49","5,65","4,14",9
+829,"14,88",4,Snowy,4,Medium,2,Evening,Bike,10,"0,0",Begginer,64,74,Very Late,"13,95","4,97","4,3",10
+668,"3,63",2,Windy,2,Medium,2,Morning,Car,22,"9,0",Senior,39,61,Very Late,"5,58","16,8","10,74",6
+755,"3,22",2,Windy,2,High,3,Morning,Car,7,"7,0",Senior,27,34,Normal,"7,16","10,56","8,39",7
+859,"11,51",3,Foggy,3,Low,1,Afternoon,Car,5,"7,0",Senior,57,62,Very Late,"12,12","5,39","4,95",7
+155,"19,72",4,Rainy,3,Low,1,Afternoon,Bike,27,"6,0",Senior,109,136,Very Late,"10,86","6,9","5,53",8
+288,"11,08",3,Clear,1,Low,1,Evening,Scooter,28,"2,0",Intermediate,58,86,Very Late,"11,46","7,76","5,23",5
+603,"3,95",2,Clear,1,Medium,2,Morning,Car,28,"5,0",Advanced,47,75,Very Late,"5,04","18,99","11,9",5
+570,"7,29",3,Clear,1,High,3,Evening,Car,11,"7,0",Senior,48,59,Late,"9,11","8,09","6,58",7
+744,"10,3",3,Clear,1,Low,1,Morning,Car,12,"7,0",Senior,41,53,Late,"15,07","5,15","3,98",5
+18,"10,73",3,Rainy,3,High,3,Afternoon,Car,27,"6,0",Senior,83,110,Very Late,"7,76","10,25","7,74",9
+128,"17,28",4,Clear,1,Low,1,Morning,Car,28,"3,0",Intermediate,72,100,Very Late,"14,4","5,79","4,17",6
+323,"13,37",4,Foggy,3,Medium,2,Evening,Scooter,16,"9,0",Senior,71,87,Very Late,"11,3","6,51","5,31",9
+256,"11,36",3,Clear,1,Medium,2,Morning,Scooter,8,"2,0",Intermediate,52,60,Late,"13,11","5,28","4,58",6
+658,"7,58",3,Clear,1,High,3,Afternoon,Scooter,19,"9,0",Senior,57,76,Very Late,"7,98","10,03","7,52",7
+191,"2,32",1,Clear,1,Low,1,Afternoon,Scooter,23,"1,0",Begginer,32,55,Late,"4,35","23,71","13,79",3
+116,"17,49",4,Rainy,3,Low,1,Evening,Bike,27,"9,0",Senior,97,124,Very Late,"10,82","7,09","5,55",8
+181,"7,15",3,Windy,2,Low,1,Morning,Bike,15,"3,0",Intermediate,42,57,Late,"10,21","7,97","5,87",6
+760,"15,88",4,Rainy,3,Low,1,Evening,Car,17,"1,0",Begginer,68,85,Very Late,"14,01","5,35","4,28",8
+724,"14,95",4,Clear,1,Medium,2,Morning,Bike,13,"7,0",Senior,49,62,Very Late,"18,31","4,15","3,28",7
+686,"11,36",3,Foggy,3,Low,1,Afternoon,Bike,6,"4,0",Advanced,47,53,Late,"14,5","4,67","4,14",7
+980,"12,14",4,Foggy,3,High,3,Afternoon,Bike,12,"0,0",Begginer,65,77,Very Late,"11,21","6,34","5,35",10
+518,"16,31",4,Foggy,3,Medium,2,Afternoon,Car,14,"7,0",Senior,71,85,Very Late,"13,78","5,21","4,35",9
+985,"14,7",4,Clear,1,Medium,2,Evening,Scooter,24,"5,0",Advanced,75,99,Very Late,"11,76","6,73","5,1",7
+46,"13,42",4,Rainy,3,Medium,2,Evening,Bike,6,"6,0",Senior,105,111,Very Late,"7,67","8,27","7,82",9
+158,"15,35",4,Foggy,3,Low,1,Morning,Car,5,"3,0",Intermediate,56,61,Very Late,"16,45","3,97","3,65",8
+852,"15,12",4,Foggy,3,Low,1,Morning,Bike,14,"1,0",Begginer,58,72,Very Late,"15,64","4,76","3,84",8
+172,"0,82",1,Windy,2,Low,1,Morning,Car,18,"9,0",Senior,23,41,Normal,"2,14","50,0","28,05",4
+17,"6,43",2,Clear,1,Low,1,Evening,Car,9,"7,0",Senior,26,35,Normal,"14,84","5,44","4,04",4
+512,"8,66",3,Snowy,4,High,3,Morning,Bike,29,"3,0",Intermediate,77,106,Very Late,"6,75","12,24","8,89",10
+49,"11,16",3,Foggy,3,Medium,2,Afternoon,Car,21,"4,0",Advanced,77,98,Very Late,"8,7","8,78","6,9",8
+516,"1,01",1,Clear,1,High,3,Night,Bike,17,"7,0",Senior,29,46,Late,"2,09","45,54","28,71",5
+953,"3,92",2,Rainy,3,Medium,2,Night,Bike,20,"9,0",Senior,41,61,Very Late,"5,74","15,56","10,46",7
+481,"12,77",4,Foggy,3,Low,1,Morning,Bike,22,"8,0",Senior,71,93,Very Late,"10,79","7,28","5,56",8
+284,"2,33",1,Clear,1,Low,1,Evening,Bike,9,"2,0",Intermediate,18,27,Fast,"7,77","11,59","7,73",3
+719,"2,92",1,Windy,2,High,3,Afternoon,Bike,24,"4,0",Advanced,48,72,Very Late,"3,65","24,66","16,44",6
+878,"13,35",4,Rainy,3,Low,1,Evening,Scooter,14,"4,0",Advanced,91,105,Very Late,"8,8","7,87","6,82",8
+226,"5,26",2,Rainy,3,Medium,2,Evening,Scooter,28,"8,0",Senior,51,79,Very Late,"6,19","15,02","9,7",7
+27,"4,39",2,Foggy,3,Medium,2,Night,Bike,12,"8,0",Senior,38,50,Late,"6,93","11,39","8,66",7
+955,"8,67",3,Windy,2,High,3,Morning,Bike,20,"4,0",Advanced,55,75,Very Late,"9,46","8,65","6,34",8
+438,"16,53",4,Snowy,4,Low,1,Afternoon,Scooter,24,"9,0",Senior,99,123,Very Late,"10,02","7,44","5,99",9
+952,"13,47",4,Clear,1,Medium,2,Evening,Bike,19,"4,0",Advanced,59,78,Very Late,"13,7","5,79","4,38",7
+365,"18,86",4,Snowy,4,Medium,2,Night,Bike,18,"1,0",Begginer,89,107,Very Late,"12,71","5,67","4,72",10
+230,"12,81",4,Clear,1,Low,1,Morning,Bike,12,"2,0",Intermediate,51,63,Very Late,"15,07","4,92","3,98",6
+38,"2,4",1,Snowy,4,Low,1,Night,Scooter,27,"5,0",Advanced,42,69,Very Late,"3,43","28,75","17,5",6
+966,"7,44",3,Rainy,3,Medium,2,Evening,Bike,6,"1,0",Begginer,39,45,Normal,"11,45","6,05","5,24",8
+375,"1,89",1,Clear,1,Medium,2,Evening,Scooter,13,"7,0",Senior,22,35,Normal,"5,15","18,52","11,64",4
+470,"19,28",4,Snowy,4,Medium,2,Morning,Car,21,"3,0",Intermediate,101,122,Very Late,"11,45","6,33","5,24",10
+851,"1,81",1,Clear,1,Medium,2,Afternoon,Car,23,"3,0",Intermediate,34,57,Late,"3,19","31,49","18,78",4
+705,"1,74",1,Clear,1,Medium,2,Night,Bike,23,"2,0",Intermediate,34,57,Late,"3,07","32,76","19,54",4
+842,"13,44",4,Clear,1,Medium,2,Morning,Car,22,"1,0",Begginer,79,101,Very Late,"10,21","7,51","5,88",7
+855,"4,5",2,Windy,2,Low,1,Evening,Scooter,20,"6,0",Senior,32,52,Late,"8,44","11,56","7,11",5
+865,"8,31",3,Windy,2,Medium,2,Morning,Bike,6,"5,0",Advanced,44,50,Late,"11,33","6,02","5,29",7
+504,"16,37",4,Clear,1,High,3,Morning,Bike,26,"7,0",Senior,97,123,Very Late,"10,13","7,51","5,93",8
+970,"9,78",3,Clear,1,Medium,2,Afternoon,Bike,18,"3,0",Intermediate,58,76,Very Late,"10,12","7,77","5,93",6
+831,"4,88",2,Windy,2,Medium,2,Afternoon,Scooter,26,"7,0",Senior,48,74,Very Late,"6,1","15,16","9,84",6
+969,"11,54",3,Clear,1,High,3,Afternoon,Car,10,"0,0",Begginer,56,66,Very Late,"12,36","5,72","4,85",7
+909,"5,56",2,Clear,1,Low,1,Afternoon,Scooter,19,"5,0",Advanced,31,50,Late,"10,76","8,99","5,58",4
+802,"3,47",2,Snowy,4,High,3,Night,Bike,24,"9,0",Senior,53,77,Very Late,"3,93","22,19","15,27",9
+994,"12,01",4,Clear,1,Low,1,Morning,Scooter,26,"6,0",Senior,57,83,Very Late,"12,64","6,91","4,75",6
+756,"15,98",4,Foggy,3,Low,1,Morning,Car,21,"6,0",Senior,90,111,Very Late,"10,65","6,95","5,63",8
+112,"3,64",2,Clear,1,Low,1,Morning,Scooter,16,"3,0",Intermediate,26,42,Normal,"8,4","11,54","7,14",4
+227,"19,47",4,Clear,1,Low,1,Morning,Bike,16,"8,0",Senior,83,99,Very Late,"14,07","5,08","4,26",6
+689,"15,51",4,Rainy,3,Medium,2,Morning,Scooter,10,"8,0",Senior,81,91,Very Late,"11,49","5,87","5,22",9
+104,"10,42",3,Windy,2,Medium,2,Afternoon,Bike,28,"3,0",Intermediate,72,100,Very Late,"8,68","9,6","6,91",7
+422,"15,9",4,Rainy,3,Low,1,Evening,Car,19,"5,0",Advanced,78,97,Very Late,"12,23","6,1","4,91",8
+420,"15,17",4,Windy,2,Low,1,Morning,Bike,25,"4,0",Advanced,77,102,Very Late,"11,82","6,72","5,08",7
+587,"1,98",1,Rainy,3,Low,1,Afternoon,Bike,22,"0,0",Begginer,39,61,Very Late,"3,05","30,81","19,7",5
+781,"14,03",4,Clear,1,Low,1,Afternoon,Bike,17,"2,0",Intermediate,65,82,Very Late,"12,95","5,84","4,63",6
+673,"2,06",1,Foggy,3,Medium,2,Evening,Scooter,22,"4,0",Advanced,40,62,Very Late,"3,09","30,1","19,42",6
+120,"11,02",3,Clear,1,High,3,Morning,Scooter,22,"2,0",Intermediate,70,92,Very Late,"9,45","8,35","6,35",7
+152,"5,17",2,Foggy,3,Low,1,Morning,Bike,29,"0,0",Begginer,56,85,Very Late,"5,54","16,44","10,83",6
+404,"16,62",4,Snowy,4,Low,1,Afternoon,Bike,26,"8,0",Senior,94,120,Very Late,"10,61","7,22","5,66",9
+946,"0,71",1,Rainy,3,Low,1,Morning,Car,25,"8,0",Senior,31,56,Late,"1,37","78,87","43,66",5
+659,"13,1",4,Clear,1,Low,1,Evening,Bike,28,"2,0",Intermediate,72,100,Very Late,"10,92","7,63","5,5",6
+844,"19,24",4,Rainy,3,High,3,Afternoon,Bike,9,"7,0",Senior,75,84,Very Late,"15,39","4,37","3,9",10
+763,"5,35",2,Clear,1,Medium,2,Afternoon,Scooter,24,"6,0",Senior,43,67,Very Late,"7,47","12,52","8,04",5
+9,"12,22",4,Clear,1,Low,1,Evening,Scooter,15,"0,0",Begginer,56,71,Very Late,"13,09","5,81","4,58",6
+808,"18,55",4,Clear,1,Low,1,Afternoon,Car,11,"9,0",Senior,69,80,Very Late,"16,13","4,31","3,72",6
+37,"6,44",2,Clear,1,Low,1,Afternoon,Car,18,"2,0",Intermediate,43,61,Very Late,"8,99","9,47","6,68",4
+453,"8,77",3,Foggy,3,Medium,2,Evening,Car,14,"7,0",Senior,49,63,Very Late,"10,74","7,18","5,59",8
+652,"10,97",3,Clear,1,Low,1,Afternoon,Scooter,27,"3,0",Intermediate,51,78,Very Late,"12,91","7,11","4,65",5
+254,"6,68",2,Clear,1,High,3,Morning,Scooter,10,"5,0",Advanced,44,54,Late,"9,11","8,08","6,59",6
+304,"12,93",4,Rainy,3,Low,1,Afternoon,Scooter,25,"0,0",Begginer,61,86,Very Late,"12,72","6,65","4,72",8
+747,"7,99",3,Clear,1,Medium,2,Evening,Bike,18,"4,0",Advanced,42,60,Late,"11,41","7,51","5,26",6
+572,"15,78",4,Clear,1,High,3,Afternoon,Scooter,12,"1,0",Begginer,68,80,Very Late,"13,92","5,07","4,31",8
+624,"9,95",3,Windy,2,High,3,Evening,Scooter,21,"5,0",Advanced,72,93,Very Late,"8,29","9,35","7,24",8
+733,"13,47",4,Rainy,3,Low,1,Afternoon,Scooter,7,"6,0",Senior,46,53,Late,"17,57","3,93","3,41",8
+892,"17,19",4,Clear,1,Medium,2,Afternoon,Bike,11,"8,0",Senior,76,87,Very Late,"13,57","5,06","4,42",7
+263,"3,23",2,Clear,1,High,3,Afternoon,Bike,17,"9,0",Senior,33,50,Late,"5,87","15,48","10,22",6
+611,"1,27",1,Foggy,3,High,3,Afternoon,Bike,25,"9,0",Senior,46,71,Very Late,"1,66","55,91","36,22",7
+298,"4,71",2,Clear,1,Low,1,Morning,Bike,20,"6,0",Senior,31,51,Late,"9,12","10,83","6,58",4
+415,"12,82",4,Rainy,3,Medium,2,Evening,Bike,28,"9,0",Senior,72,100,Very Late,"10,68","7,8","5,62",9
+789,"9,51",3,Clear,1,High,3,Morning,Bike,26,"9,0",Senior,63,89,Very Late,"9,06","9,36","6,62",7
+641,"0,89",1,Rainy,3,Low,1,Morning,Car,9,"0,0",Begginer,20,29,Fast,"2,67","32,58","22,47",5
+890,"5,24",2,Windy,2,High,3,Afternoon,Scooter,26,"8,0",Senior,51,77,Very Late,"6,16","14,69","9,73",7
+551,"10,64",3,Windy,2,Low,1,Evening,Car,11,"9,0",Senior,36,47,Late,"17,73","4,42","3,38",6
+887,"13,23",4,Clear,1,Medium,2,Night,Bike,20,"8,0",Senior,70,90,Very Late,"11,34","6,8","5,29",7
+489,"19,03",4,Clear,1,Medium,2,Morning,Scooter,8,"8,0",Senior,65,73,Very Late,"17,57","3,84","3,42",7
+148,"10,3",3,Rainy,3,Low,1,Evening,Bike,29,"0,0",Begginer,73,102,Very Late,"8,47","9,9","7,09",7
+147,"12,39",4,Snowy,4,Medium,2,Evening,Bike,14,"8,0",Senior,56,70,Very Late,"13,28","5,65","4,52",10
+721,"18,8",4,Clear,1,High,3,Afternoon,Bike,23,"7,0",Senior,95,118,Very Late,"11,87","6,28","5,05",8
+932,"16,78",4,Rainy,3,Medium,2,Morning,Bike,22,"1,0",Begginer,70,92,Very Late,"14,38","5,48","4,17",9
+740,"7,85",3,Clear,1,Low,1,Afternoon,Scooter,7,"9,0",Senior,34,41,Normal,"13,85","5,22","4,33",5
+660,"11,63",3,Clear,1,Medium,2,Night,Scooter,29,"7,0",Senior,57,86,Very Late,"12,24","7,39","4,9",6
+349,"7,8",3,Windy,2,Medium,2,Afternoon,Car,17,"6,0",Senior,44,61,Very Late,"10,64","7,82","5,64",7
+464,"11,88",3,Rainy,3,Medium,2,Afternoon,Bike,5,"1,0",Begginer,63,68,Very Late,"11,31","5,72","5,3",8
+326,"14,89",4,Clear,1,High,3,Evening,Car,22,"9,0",Senior,88,110,Very Late,"10,15","7,39","5,91",8
+854,"18,01",4,Foggy,3,High,3,Night,Bike,14,"2,0",Intermediate,71,85,Very Late,"15,22","4,72","3,94",10
+609,"10,32",3,Clear,1,Medium,2,Night,Car,24,"5,0",Advanced,49,73,Very Late,"12,64","7,07","4,75",6
+144,"6,37",2,Rainy,3,Low,1,Afternoon,Car,29,"4,0",Advanced,56,85,Very Late,"6,82","13,34","8,79",6
+959,"3,74",2,Rainy,3,Low,1,Morning,Bike,19,"6,0",Senior,36,55,Late,"6,23","14,71","9,63",6
+198,"17,99",4,Windy,2,High,3,Evening,Bike,5,"1,0",Begginer,73,78,Very Late,"14,79","4,34","4,06",9
+610,"13,96",4,Rainy,3,Low,1,Night,Bike,5,"1,0",Begginer,42,47,Late,"19,94","3,37","3,01",8
+280,"16,02",4,Clear,1,Low,1,Evening,Bike,20,"7,0",Senior,61,81,Very Late,"15,76","5,06","3,81",6
+401,"2,51",1,Clear,1,Low,1,Morning,Bike,16,"2,0",Intermediate,28,44,Normal,"5,38","17,53","11,16",3
+123,"6,7",2,Foggy,3,High,3,Morning,Scooter,23,"3,0",Intermediate,59,82,Very Late,"6,81","12,24","8,81",8
+184,"17,61",4,Windy,2,Low,1,Morning,Bike,5,"8,0",Senior,61,66,Very Late,"17,32","3,75","3,46",7
+203,"3,65",2,Clear,1,Medium,2,Morning,Bike,29,"9,0",Senior,46,75,Very Late,"4,76","20,55","12,6",5
+439,"14,27",4,Clear,1,Medium,2,Night,Car,24,"3,0",Intermediate,77,101,Very Late,"11,12","7,08","5,4",7
+247,"8,85",3,Clear,1,Low,1,Afternoon,Bike,11,"9,0",Senior,45,56,Late,"11,8","6,33","5,08",5
+933,"19,7",4,Rainy,3,Low,1,Evening,Car,16,"6,0",Senior,66,82,Very Late,"17,91","4,16","3,35",8
+766,"11,61",3,Clear,1,High,3,Morning,Car,19,"1,0",Begginer,67,86,Very Late,"10,4","7,41","5,77",7
+907,"16,44",4,Windy,2,High,3,Afternoon,Car,8,"0,0",Begginer,80,88,Very Late,"12,33","5,35","4,87",9
+836,"8,67",3,Rainy,3,High,3,Afternoon,Bike,12,"7,0",Senior,104,116,Very Late,"5,0","13,38","12,0",9
+888,"5,14",2,Clear,1,Medium,2,Evening,Scooter,23,"7,0",Senior,43,66,Very Late,"7,17","12,84","8,37",5
+638,"5,23",2,Clear,1,Medium,2,Morning,Scooter,23,"2,0",Intermediate,47,70,Very Late,"6,68","13,38","8,99",5
+403,"10,35",3,Clear,1,Medium,2,Night,Bike,7,"9,0",Senior,48,55,Late,"12,94","5,31","4,64",6
+785,"4,04",2,Rainy,3,High,3,Evening,Bike,14,"6,0",Senior,39,53,Late,"6,22","13,12","9,65",8
+771,"2,66",1,Clear,1,Low,1,Afternoon,Bike,16,"8,0",Senior,21,37,Normal,"7,6","13,91","7,89",3
+736,"17,61",4,Foggy,3,Medium,2,Afternoon,Bike,9,"5,0",Advanced,74,83,Very Late,"14,28","4,71","4,2",9
+914,"8,48",3,Clear,1,High,3,Night,Bike,11,"5,0",Advanced,39,50,Late,"13,05","5,9","4,6",7
+220,"17,06",4,Clear,1,Low,1,Evening,Bike,9,"9,0",Senior,66,75,Very Late,"15,51","4,4","3,87",6
+642,"6,78",2,Foggy,3,Low,1,Night,Bike,18,"6,0",Senior,42,60,Late,"9,69","8,85","6,19",6
+916,"9,0",3,Snowy,4,Medium,2,Afternoon,Car,29,"3,0",Intermediate,78,107,Very Late,"6,92","11,89","8,67",9
+753,"12,74",4,Clear,1,Low,1,Afternoon,Scooter,12,"0,0",Begginer,63,75,Very Late,"12,13","5,89","4,95",6
+807,"18,72",4,Rainy,3,Medium,2,Afternoon,Bike,17,"0,0",Begginer,89,106,Very Late,"12,62","5,66","4,75",9
+625,"12,56",4,Clear,1,Low,1,Morning,Car,22,"8,0",Senior,49,71,Very Late,"15,38","5,65","3,9",6
+875,"1,0",1,Snowy,4,Medium,2,Morning,Bike,28,"0,0",Begginer,51,79,Very Late,"1,18","79,0","51,0",7
+761,"3,46",2,Clear,1,Low,1,Morning,Bike,24,"6,0",Senior,37,61,Very Late,"5,61","17,63","10,69",4
+387,"6,0",2,Snowy,4,Low,1,Morning,Car,20,"8,0",Senior,53,73,Very Late,"6,79","12,17","8,83",7
+973,"14,79",4,Clear,1,Medium,2,Morning,Scooter,12,"9,0",Senior,64,76,Very Late,"13,87","5,14","4,33",7
+510,"14,65",4,Snowy,4,High,3,Morning,Car,19,"3,0",Intermediate,95,114,Very Late,"9,25","7,78","6,48",11
+268,"14,2",4,Clear,1,Medium,2,Afternoon,Bike,17,"1,0",Begginer,73,90,Very Late,"11,67","6,34","5,14",7
+820,"7,04",3,Clear,1,Low,1,Afternoon,Bike,11,"8,0",Senior,38,49,Late,"11,12","6,96","5,4",5
+497,"11,88",3,Rainy,3,Medium,2,Evening,Bike,20,"8,0",Senior,69,89,Very Late,"10,33","7,49","5,81",8
+113,"18,63",4,Clear,1,Low,1,Evening,Bike,26,"8,0",Senior,75,101,Very Late,"14,9","5,42","4,03",6
+692,"8,8",3,Rainy,3,Medium,2,Afternoon,Bike,6,"2,0",Intermediate,38,44,Normal,"13,89","5,0","4,32",8
+233,"11,75",3,Clear,1,High,3,Morning,Bike,9,"2,0",Intermediate,55,64,Very Late,"12,82","5,45","4,68",7
+870,"18,95",4,Snowy,4,Low,1,Morning,Car,27,"0,0",Begginer,92,119,Very Late,"12,36","6,28","4,85",9
+608,"7,6",3,Foggy,3,Low,1,Morning,Bike,16,"4,0",Advanced,48,64,Very Late,"9,5","8,42","6,32",7
+672,"17,99",4,Foggy,3,Low,1,Morning,Car,11,"2,0",Intermediate,84,95,Very Late,"12,85","5,28","4,67",8
+374,"13,82",4,Clear,1,Medium,2,Evening,Bike,21,"9,0",Senior,72,93,Very Late,"11,52","6,73","5,21",7
+982,"15,53",4,Foggy,3,Low,1,Evening,Bike,26,"7,0",Senior,68,94,Very Late,"13,7","6,05","4,38",8
+843,"3,97",2,Clear,1,High,3,Afternoon,Bike,19,"8,0",Senior,40,59,Late,"5,96","14,86","10,08",6
+234,"10,1",3,Clear,1,High,3,Morning,Car,17,"6,0",Senior,55,72,Very Late,"11,02","7,13","5,45",7
+786,"18,21",4,Foggy,3,Low,1,Morning,Bike,5,"1,0",Begginer,70,75,Very Late,"15,61","4,12","3,84",8
+677,"2,68",1,Clear,1,Low,1,Morning,Bike,16,"8,0",Senior,25,41,Normal,"6,43","15,3","9,33",3
+318,"3,88",2,Snowy,4,Low,1,Morning,Bike,9,"6,0",Senior,33,42,Normal,"7,05","10,82","8,51",7
+649,"15,89",4,Snowy,4,Medium,2,Afternoon,Car,15,"9,0",Senior,91,106,Very Late,"10,48","6,67","5,73",10
+411,"6,73",2,Clear,1,Medium,2,Afternoon,Bike,21,"1,0",Begginer,54,75,Very Late,"7,48","11,14","8,02",5
+899,"0,75",1,Clear,1,Medium,2,Afternoon,Bike,10,"5,0",Advanced,16,26,Fast,"2,81","34,67","21,33",4
+710,"13,79",4,Rainy,3,Low,1,Night,Scooter,11,"0,0",Begginer,69,80,Very Late,"11,99","5,8","5,0",8
+359,"18,83",4,Clear,1,Medium,2,Evening,Scooter,5,"8,0",Senior,69,74,Very Late,"16,37","3,93","3,66",7
+259,"11,62",3,Clear,1,Low,1,Afternoon,Bike,9,"8,0",Senior,33,42,Normal,"21,13","3,61","2,84",5
+628,"15,08",4,Rainy,3,Medium,2,Evening,Scooter,26,"1,0",Begginer,94,120,Very Late,"9,63","7,96","6,23",9
+633,"10,48",3,Rainy,3,Low,1,Afternoon,Car,10,"7,0",Senior,45,55,Late,"13,97","5,25","4,29",7
+283,"7,82",3,Rainy,3,Medium,2,Evening,Bike,16,"8,0",Senior,45,61,Very Late,"10,43","7,8","5,75",8
+385,"14,83",4,Rainy,3,Low,1,Morning,Car,19,"4,0",Advanced,126,145,Very Late,"7,06","9,78","8,5",8
+225,"5,67",2,Clear,1,Low,1,Morning,Scooter,11,"9,0",Senior,27,38,Normal,"12,6","6,7","4,76",4
+954,"18,33",4,Snowy,4,Medium,2,Morning,Scooter,5,"5,0",Advanced,67,72,Very Late,"16,41","3,93","3,66",10
+473,"1,34",1,Foggy,3,High,3,Evening,Bike,9,"5,0",Advanced,30,39,Normal,"2,68","29,1","22,39",7
+348,"1,38",1,Clear,1,Low,1,Morning,Scooter,13,"9,0",Senior,17,30,Fast,"4,87","21,74","12,32",3
+640,"7,86",3,Windy,2,Medium,2,Morning,Car,22,"2,0",Intermediate,55,77,Very Late,"8,57","9,8","7,0",7
+988,"8,98",3,Clear,1,Medium,2,Afternoon,Scooter,22,"8,0",Senior,105,127,Very Late,"5,13","14,14","11,69",6
+929,"12,85",4,Rainy,3,Medium,2,Evening,Scooter,6,"7,0",Senior,61,67,Very Late,"12,64","5,21","4,75",9
+906,"17,91",4,Clear,1,Low,1,Afternoon,Bike,6,"7,0",Senior,68,74,Very Late,"15,8","4,13","3,8",6
+620,"15,09",4,Snowy,4,Low,1,Morning,Car,20,"7,0",Senior,68,88,Very Late,"13,31","5,83","4,51",9
+856,"4,22",2,Clear,1,Medium,2,Morning,Bike,16,"7,0",Senior,35,51,Late,"7,23","12,09","8,29",5
+804,"12,33",4,Clear,1,High,3,Night,Bike,7,"2,0",Intermediate,101,108,Very Late,"7,32","8,76","8,19",8
+646,"17,87",4,Snowy,4,Low,1,Morning,Scooter,29,"4,0",Advanced,87,116,Very Late,"12,32","6,49","4,87",9
+847,"2,16",1,Clear,1,Medium,2,Night,Car,10,"1,0",Begginer,23,33,Normal,"5,63","15,28","10,65",4
+557,"3,11",2,Rainy,3,Medium,2,Morning,Scooter,21,"1,0",Begginer,43,64,Very Late,"4,34","20,58","13,83",7
+958,"1,42",1,Clear,1,High,3,Afternoon,Scooter,24,"2,0",Intermediate,40,64,Very Late,"2,13","45,07","28,17",5
+578,"18,57",4,Rainy,3,Medium,2,Afternoon,Bike,16,"7,0",Senior,89,105,Very Late,"12,52","5,65","4,79",9
+796,"17,51",4,Clear,1,Medium,2,Evening,Bike,15,"3,0",Intermediate,60,75,Very Late,"17,51","4,28","3,43",7
+86,"6,84",2,Clear,1,Medium,2,Evening,Bike,25,"1,0",Begginer,51,76,Very Late,"8,05","11,11","7,46",5
+699,"3,51",2,Windy,2,Medium,2,Night,Bike,22,"2,0",Intermediate,44,66,Very Late,"4,79","18,8","12,54",6
+160,"14,7",4,Clear,1,Medium,2,Morning,Scooter,6,"2,0",Intermediate,58,64,Very Late,"15,21","4,35","3,95",7
+525,"16,85",4,Clear,1,High,3,Morning,Car,17,"4,0",Advanced,71,88,Very Late,"14,24","5,22","4,21",8
+36,"16,26",4,Rainy,3,Low,1,Morning,Car,27,"5,0",Advanced,66,93,Very Late,"14,78","5,72","4,06",8
+541,"19,1",4,Snowy,4,Medium,2,Morning,Bike,25,"6,0",Senior,90,115,Very Late,"12,73","6,02","4,71",10
+171,"13,71",4,Rainy,3,Medium,2,Evening,Bike,22,"9,0",Senior,64,86,Very Late,"12,85","6,27","4,67",9
+891,"14,58",4,Clear,1,Low,1,Evening,Bike,23,"0,0",Begginer,70,93,Very Late,"12,5","6,38","4,8",6
+858,"9,71",3,Clear,1,Low,1,Afternoon,Car,27,"5,0",Advanced,61,88,Very Late,"9,55","9,06","6,28",5
+848,"19,94",4,Clear,1,Low,1,Afternoon,Bike,26,"6,0",Senior,83,109,Very Late,"14,41","5,47","4,16",6
+945,"4,53",2,Snowy,4,Medium,2,Morning,Scooter,18,"4,0",Advanced,49,67,Very Late,"5,55","14,79","10,82",8
+734,"10,7",3,Clear,1,High,3,Afternoon,Car,8,"4,0",Advanced,57,65,Very Late,"11,26","6,07","5,33",7
+96,"10,13",3,Clear,1,Medium,2,Evening,Bike,22,"0,0",Begginer,65,87,Very Late,"9,35","8,59","6,42",6
+564,"0,78",1,Clear,1,Low,1,Afternoon,Bike,11,"0,0",Begginer,18,29,Fast,"2,6","37,18","23,08",3
+241,"18,84",4,Foggy,3,Medium,2,Afternoon,Scooter,25,"8,0",Senior,88,113,Very Late,"12,85","6,0","4,67",9
+743,"15,08",4,Snowy,4,Low,1,Evening,Bike,29,"7,0",Senior,84,113,Very Late,"10,77","7,49","5,57",9
+575,"17,32",4,Clear,1,Low,1,Evening,Scooter,10,"3,0",Intermediate,77,87,Very Late,"13,5","5,02","4,45",6
+691,"6,81",2,Clear,1,Medium,2,Evening,Bike,23,"2,0",Intermediate,47,70,Very Late,"8,69","10,28","6,9",5
+461,"2,79",1,Clear,1,High,3,Morning,Bike,23,"7,0",Senior,38,61,Very Late,"4,41","21,86","13,62",5
+554,"11,44",3,Foggy,3,High,3,Afternoon,Car,14,"4,0",Advanced,74,88,Very Late,"9,28","7,69","6,47",9
+889,"2,44",1,Snowy,4,High,3,Evening,Bike,13,"9,0",Senior,39,52,Late,"3,75","21,31","15,98",8
+207,"2,48",1,Rainy,3,Low,1,Evening,Scooter,20,"8,0",Senior,30,50,Late,"4,96","20,16","12,1",5
+795,"0,85",1,Clear,1,Medium,2,Morning,Bike,9,"8,0",Senior,17,26,Fast,"3,0","30,59","20,0",4
+398,"8,87",3,Clear,1,Low,1,Evening,Bike,19,"3,0",Intermediate,55,74,Very Late,"9,68","8,34","6,2",5
+767,"15,37",4,Snowy,4,Medium,2,Afternoon,Car,15,"5,0",Advanced,66,81,Very Late,"13,97","5,27","4,29",10
+849,"10,29",3,Foggy,3,Medium,2,Evening,Scooter,25,"4,0",Advanced,67,92,Very Late,"9,21","8,94","6,51",8
+218,"15,06",4,Rainy,3,Low,1,Morning,Bike,22,"4,0",Advanced,65,87,Very Late,"13,9","5,78","4,32",8
+769,"7,17",3,Clear,1,Medium,2,Morning,Scooter,7,"9,0",Senior,29,36,Normal,"14,83","5,02","4,04",6
+643,"4,62",2,Rainy,3,Medium,2,Afternoon,Car,8,"3,0",Intermediate,33,41,Normal,"8,4","8,87","7,14",7
+930,"5,53",2,Clear,1,Low,1,Morning,Car,10,"8,0",Senior,27,37,Normal,"12,29","6,69","4,88",4
+613,"12,74",4,Rainy,3,Low,1,Afternoon,Bike,17,"9,0",Senior,63,80,Very Late,"12,13","6,28","4,95",8
+739,"9,06",3,Clear,1,High,3,Evening,Bike,26,"3,0",Intermediate,61,87,Very Late,"8,91","9,6","6,73",7
+547,"2,71",1,Foggy,3,Low,1,Morning,Bike,6,"0,0",Begginer,28,34,Normal,"5,81","12,55","10,33",5
+726,"16,92",4,Clear,1,Low,1,Night,Bike,23,"5,0",Advanced,78,101,Very Late,"13,02","5,97","4,61",6
+684,"13,54",4,Foggy,3,Low,1,Morning,Bike,11,"1,0",Begginer,54,65,Very Late,"15,04","4,8","3,99",8
+99,"1,0",1,Snowy,4,Medium,2,Morning,Bike,25,"4,0",Advanced,44,69,Very Late,"1,36","69,0","44,0",7
+805,"8,77",3,Clear,1,Medium,2,Morning,Car,12,"2,0",Intermediate,42,54,Late,"12,53","6,16","4,79",6
+728,"16,01",4,Windy,2,Low,1,Morning,Car,28,"0,0",Begginer,84,112,Very Late,"11,44","7,0","5,25",7
+574,"12,63",4,Foggy,3,Medium,2,Night,Scooter,8,"8,0",Senior,49,57,Late,"15,47","4,51","3,88",9
+407,"8,09",3,Foggy,3,Low,1,Evening,Car,22,"2,0",Intermediate,56,78,Very Late,"8,67","9,64","6,92",7
+503,"6,54",2,Clear,1,Medium,2,Night,Bike,10,"7,0",Senior,39,49,Late,"10,06","7,49","5,96",5
+48,"10,64",3,Clear,1,Medium,2,Afternoon,Scooter,14,"5,0",Advanced,45,59,Late,"14,19","5,55","4,23",6
+33,"1,77",1,Clear,1,Medium,2,Evening,Bike,14,"9,0",Senior,22,36,Normal,"4,83","20,34","12,43",4
+780,"13,0",4,Foggy,3,Low,1,Evening,Bike,25,"7,0",Senior,77,102,Very Late,"10,13","7,85","5,92",8
+840,"12,83",4,Clear,1,Low,1,Evening,Bike,5,"8,0",Senior,50,55,Late,"15,4","4,29","3,9",6
+201,"13,02",4,Snowy,4,High,3,Afternoon,Car,6,"9,0",Senior,65,71,Very Late,"12,02","5,45","4,99",11
+135,"18,89",4,Rainy,3,Medium,2,Morning,Scooter,22,"1,0",Begginer,74,96,Very Late,"15,32","5,08","3,92",9
+28,"10,53",3,Foggy,3,High,3,Evening,Bike,25,"8,0",Senior,72,97,Very Late,"8,77","9,21","6,84",9
+881,"5,01",2,Rainy,3,Low,1,Afternoon,Bike,10,"5,0",Advanced,31,41,Normal,"9,7","8,18","6,19",6
+231,"16,0",4,Foggy,3,Medium,2,Afternoon,Scooter,13,"3,0",Intermediate,65,78,Very Late,"14,77","4,88","4,06",9
+490,"17,86",4,Clear,1,Low,1,Afternoon,Scooter,16,"8,0",Senior,83,99,Very Late,"12,91","5,54","4,65",6
+773,"2,99",1,Foggy,3,High,3,Afternoon,Bike,9,"5,0",Advanced,90,99,Very Late,"1,99","33,11","30,1",7
+379,"16,38",4,Clear,1,Medium,2,Morning,Bike,6,"2,0",Intermediate,51,57,Late,"19,27","3,48","3,11",7
+289,"6,09",2,Clear,1,Medium,2,Night,Bike,7,"4,0",Advanced,27,34,Normal,"13,53","5,58","4,43",5
+419,"13,61",4,Clear,1,Low,1,Morning,Bike,26,"0,0",Begginer,66,92,Very Late,"12,37","6,76","4,85",6
+675,"8,5",3,Snowy,4,High,3,Evening,Bike,14,"7,0",Senior,56,70,Very Late,"9,11","8,24","6,59",10
+392,"8,55",3,Clear,1,Low,1,Evening,Scooter,28,"8,0",Senior,46,74,Very Late,"11,15","8,65","5,38",5
+593,"4,05",2,Clear,1,Medium,2,Afternoon,Scooter,21,"5,0",Advanced,39,60,Late,"6,23","14,81","9,63",5
+499,"19,5",4,Clear,1,High,3,Morning,Bike,18,"2,0",Intermediate,73,91,Very Late,"16,03","4,67","3,74",8
+63,"16,66",4,Snowy,4,High,3,Afternoon,Scooter,29,"7,0",Senior,95,124,Very Late,"10,52","7,44","5,7",11
+472,"19,41",4,Snowy,4,High,3,Evening,Car,21,"3,0",Intermediate,100,121,Very Late,"11,65","6,23","5,15",11
+648,"13,74",4,Foggy,3,Medium,2,Afternoon,Bike,6,"1,0",Begginer,56,62,Very Late,"14,72","4,51","4,08",9
+129,"0,64",1,Clear,1,High,3,Night,Bike,10,"3,0",Intermediate,24,34,Normal,"1,6","53,12","37,5",5
+977,"12,1",4,Clear,1,High,3,Afternoon,Bike,11,"0,0",Begginer,53,64,Very Late,"13,7","5,29","4,38",8
+521,"12,09",4,Clear,1,Medium,2,Morning,Car,13,"1,0",Begginer,60,73,Very Late,"12,09","6,04","4,96",7
+839,"11,82",3,Windy,2,Medium,2,Night,Bike,24,"7,0",Senior,77,101,Very Late,"9,21","8,54","6,51",7
+963,"5,28",2,Foggy,3,Low,1,Morning,Bike,27,"6,0",Senior,53,80,Very Late,"5,98","15,15","10,04",6
+65,"5,98",2,Clear,1,Low,1,Evening,Car,22,"9,0",Senior,35,57,Late,"10,25","9,53","5,85",4
+813,"2,93",1,Clear,1,Medium,2,Morning,Bike,24,"8,0",Senior,94,118,Very Late,"1,87","40,27","32,08",4
+15,"4,05",2,Snowy,4,Medium,2,Evening,Scooter,19,"2,0",Intermediate,50,69,Very Late,"4,86","17,04","12,35",8
+493,"5,91",2,Clear,1,Medium,2,Evening,Scooter,29,"4,0",Advanced,57,86,Very Late,"6,22","14,55","9,64",5
+380,"6,0",2,Rainy,3,Medium,2,Evening,Scooter,21,"2,0",Intermediate,47,68,Very Late,"7,66","11,33","7,83",7
+188,"11,33",3,Clear,1,Medium,2,Afternoon,Scooter,29,"7,0",Senior,77,106,Very Late,"8,83","9,36","6,8",6
+764,"15,01",4,Clear,1,Medium,2,Morning,Bike,15,"6,0",Senior,64,79,Very Late,"14,07","5,26","4,26",7
+217,"6,85",2,Clear,1,High,3,Morning,Bike,16,"5,0",Advanced,48,64,Very Late,"8,56","9,34","7,01",6
+792,"11,93",3,Snowy,4,High,3,Morning,Car,7,"1,0",Begginer,75,82,Very Late,"9,54","6,87","6,29",10
+53,"18,82",4,Windy,2,Low,1,Morning,Car,5,"3,0",Intermediate,77,82,Very Late,"14,66","4,36","4,09",7
+879,"1,03",1,Clear,1,Medium,2,Afternoon,Bike,19,"4,0",Advanced,29,48,Late,"2,13","46,6","28,16",4
+720,"14,75",4,Clear,1,Low,1,Morning,Car,10,"7,0",Senior,62,72,Very Late,"14,27","4,88","4,2",6
+725,"11,7",3,Rainy,3,Low,1,Afternoon,Bike,17,"5,0",Advanced,60,77,Very Late,"11,7","6,58","5,13",7
+296,"10,68",3,Clear,1,Low,1,Morning,Bike,14,"1,0",Begginer,42,56,Late,"15,26","5,24","3,93",5
+702,"1,51",1,Clear,1,High,3,Evening,Bike,26,"1,0",Begginer,44,70,Very Late,"2,06","46,36","29,14",5
+252,"8,01",3,Clear,1,High,3,Morning,Bike,8,"6,0",Senior,48,56,Late,"10,01","6,99","5,99",7
+727,"3,23",2,Rainy,3,Low,1,Morning,Car,25,"7,0",Senior,42,67,Very Late,"4,61","20,74","13,0",6
+462,"13,16",4,Rainy,3,High,3,Morning,Scooter,25,"8,0",Senior,68,93,Very Late,"11,61","7,07","5,17",10
+456,"10,11",3,Windy,2,Low,1,Morning,Bike,11,"4,0",Advanced,44,55,Late,"13,79","5,44","4,35",6
+997,"18,39",4,Windy,2,Low,1,Afternoon,Bike,24,"6,0",Senior,74,98,Very Late,"14,91","5,33","4,02",7
+816,"10,62",3,Windy,2,Medium,2,Afternoon,Car,22,"5,0",Advanced,54,76,Very Late,"11,8","7,16","5,08",7
+270,"6,23",2,Clear,1,Medium,2,Evening,Car,20,"1,0",Begginer,51,71,Very Late,"7,33","11,4","8,19",5
+202,"2,14",1,Clear,1,Low,1,Afternoon,Bike,25,"1,0",Begginer,36,61,Very Late,"3,57","28,5","16,82",3
+162,"12,83",4,Clear,1,Medium,2,Morning,Bike,19,"2,0",Intermediate,76,95,Very Late,"10,13","7,4","5,92",7
+556,"8,37",3,Clear,1,High,3,Evening,Scooter,13,"7,0",Senior,42,55,Late,"11,96","6,57","5,02",7
+730,"3,69",2,Rainy,3,Medium,2,Afternoon,Bike,8,"8,0",Senior,27,35,Normal,"8,2","9,49","7,32",7
+402,"18,1",4,Clear,1,Low,1,Morning,Scooter,8,"5,0",Advanced,77,85,Very Late,"14,1","4,7","4,25",6
+703,"7,06",3,Clear,1,Low,1,Afternoon,Scooter,26,"5,0",Advanced,51,77,Very Late,"8,31","10,91","7,22",5
+477,"1,94",1,Foggy,3,Low,1,Night,Bike,10,"1,0",Begginer,25,35,Normal,"4,66","18,04","12,89",5
+822,"0,59",1,Clear,1,Low,1,Afternoon,Bike,21,"0,0",Begginer,27,48,Late,"1,31","81,36","45,76",3
+772,"17,01",4,Snowy,4,Low,1,Night,Bike,28,"6,0",Senior,97,125,Very Late,"10,52","7,35","5,7",9
+106,"5,36",2,Clear,1,Low,1,Afternoon,Scooter,11,"4,0",Advanced,30,41,Normal,"10,72","7,65","5,6",4
+566,"12,0",3,Clear,1,Low,1,Evening,Car,25,"0,0",Begginer,75,100,Very Late,"9,6","8,33","6,25",5
+390,"16,23",4,Clear,1,Medium,2,Evening,Bike,6,"0,0",Begginer,54,60,Late,"18,03","3,7","3,33",7
+2,"19,04",4,Rainy,3,Low,1,Evening,Car,12,"6,0",Senior,60,72,Very Late,"19,04","3,78","3,15",8
+938,"18,33",4,Foggy,3,Medium,2,Morning,Scooter,19,"0,0",Begginer,98,117,Very Late,"11,22","6,38","5,35",9
+983,"2,58",1,Clear,1,Medium,2,Morning,Scooter,25,"7,0",Senior,37,62,Very Late,"4,18","24,03","14,34",4
+562,"4,65",2,Clear,1,Medium,2,Evening,Bike,21,"1,0",Begginer,46,67,Very Late,"6,07","14,41","9,89",5
+81,"17,33",4,Snowy,4,Low,1,Evening,Scooter,12,"3,0",Intermediate,79,91,Very Late,"13,16","5,25","4,56",9
+206,"0,68",1,Snowy,4,High,3,Evening,Bike,29,"8,0",Senior,50,79,Very Late,"0,82","116,18","73,53",8
+35,"19,33",4,Clear,1,Medium,2,Morning,Bike,7,"8,0",Senior,73,80,Very Late,"15,89","4,14","3,78",7
+776,"3,42",2,Clear,1,Medium,2,Night,Car,11,"9,0",Senior,24,35,Normal,"8,55","10,23","7,02",5
+509,"19,02",4,Rainy,3,High,3,Evening,Scooter,22,"1,0",Begginer,106,128,Very Late,"10,77","6,73","5,57",10
+428,"17,81",4,Windy,2,High,3,Evening,Bike,21,"4,0",Advanced,122,143,Very Late,"8,76","8,03","6,85",9
+455,"2,67",1,Clear,1,Medium,2,Night,Car,17,"6,0",Senior,28,45,Normal,"5,72","16,85","10,49",4
+898,"17,98",4,Clear,1,Low,1,Evening,Bike,5,"8,0",Senior,45,50,Late,"23,97","2,78","2,5",6
+565,"7,34",3,Foggy,3,Medium,2,Afternoon,Bike,22,"5,0",Advanced,93,115,Very Late,"4,74","15,67","12,67",8
+346,"12,51",4,Clear,1,Medium,2,Evening,Bike,18,"5,0",Advanced,62,80,Very Late,"12,11","6,39","4,96",7
+777,"4,97",2,Rainy,3,Low,1,Evening,Bike,17,"9,0",Senior,34,51,Late,"8,77","10,26","6,84",6
+242,"19,1",4,Snowy,4,Low,1,Afternoon,Bike,18,"1,0",Begginer,101,119,Very Late,"11,35","6,23","5,29",9
+14,"4,64",2,Clear,1,Low,1,Afternoon,Bike,15,"9,0",Senior,24,39,Normal,"11,6","8,41","5,17",4
+316,"14,07",4,Rainy,3,Low,1,Evening,Bike,10,"5,0",Advanced,63,73,Very Late,"13,4","5,19","4,48",8
+601,"3,79",2,Clear,1,Medium,2,Morning,Bike,13,"2,0",Intermediate,34,47,Late,"6,69","12,4","8,97",5
+274,"18,31",4,Clear,1,Medium,2,Afternoon,Bike,25,"3,0",Intermediate,79,104,Very Late,"13,91","5,68","4,31",7
+167,"6,76",2,Foggy,3,Medium,2,Night,Bike,7,"6,0",Senior,42,49,Late,"9,66","7,25","6,21",7
+841,"0,76",1,Clear,1,Low,1,Afternoon,Car,26,"9,0",Senior,28,54,Late,"1,63","71,05","36,84",3
+993,"5,81",2,Rainy,3,Medium,2,Evening,Bike,14,"8,0",Senior,41,55,Late,"8,5","9,47","7,06",7
+647,"12,08",4,Clear,1,High,3,Afternoon,Scooter,16,"4,0",Advanced,60,76,Very Late,"12,08","6,29","4,97",8
+819,"1,57",1,Rainy,3,Low,1,Evening,Car,16,"1,0",Begginer,30,46,Late,"3,14","29,3","19,11",5
+485,"11,89",3,Clear,1,Medium,2,Afternoon,Bike,28,"0,0",Begginer,79,107,Very Late,"9,03","9,0","6,64",6
+981,"7,02",3,Clear,1,Medium,2,Evening,Car,23,"2,0",Intermediate,53,76,Very Late,"7,95","10,83","7,55",6
+505,"13,85",4,Clear,1,Low,1,Evening,Bike,29,"5,0",Advanced,71,100,Very Late,"11,7","7,22","5,13",6
+832,"9,32",3,Rainy,3,Medium,2,Evening,Scooter,24,"2,0",Intermediate,71,95,Very Late,"7,88","10,19","7,62",8
+244,"7,72",3,Foggy,3,High,3,Evening,Bike,19,"4,0",Advanced,64,83,Very Late,"7,24","10,75","8,29",9
+567,"8,15",3,Rainy,3,Low,1,Afternoon,Bike,26,"2,0",Intermediate,50,76,Very Late,"9,78","9,33","6,13",7
+876,"3,54",2,Rainy,3,Medium,2,Afternoon,Scooter,17,"4,0",Advanced,41,58,Late,"5,18","16,38","11,58",7
+687,"11,65",3,Windy,2,Low,1,Night,Bike,10,"3,0",Intermediate,53,63,Very Late,"13,19","5,41","4,55",6
+783,"5,41",2,Clear,1,High,3,Morning,Scooter,17,"6,0",Senior,38,55,Late,"8,54","10,17","7,02",6
+700,"9,88",3,Rainy,3,Medium,2,Morning,Car,7,"0,0",Begginer,43,50,Late,"13,79","5,06","4,35",8
+476,"19,86",4,Rainy,3,High,3,Evening,Bike,12,"8,0",Senior,71,83,Very Late,"16,78","4,18","3,58",10
+682,"5,53",2,Windy,2,High,3,Morning,Bike,23,"4,0",Advanced,59,82,Very Late,"5,62","14,83","10,67",7
+511,"12,46",4,Foggy,3,Low,1,Afternoon,Bike,10,"1,0",Begginer,62,72,Very Late,"12,06","5,78","4,98",8
+59,"1,38",1,Clear,1,Medium,2,Morning,Car,6,"3,0",Intermediate,17,23,Fast,"4,87","16,67","12,32",4
+475,"10,79",3,Clear,1,Medium,2,Evening,Scooter,24,"1,0",Begginer,65,89,Very Late,"9,96","8,25","6,02",6
+561,"14,23",4,Clear,1,Medium,2,Afternoon,Scooter,23,"7,0",Senior,70,93,Very Late,"12,2","6,54","4,92",7
+857,"1,21",1,Snowy,4,Low,1,Afternoon,Bike,22,"1,0",Begginer,39,61,Very Late,"1,86","50,41","32,23",6
+748,"11,1",3,Clear,1,Low,1,Afternoon,Bike,18,"7,0",Senior,56,74,Very Late,"11,89","6,67","5,05",5
+253,"17,1",4,Clear,1,Medium,2,Evening,Bike,25,"5,0",Advanced,65,90,Very Late,"15,78","5,26","3,8",7
+22,"3,22",2,Clear,1,Medium,2,Afternoon,Bike,19,"9,0",Senior,32,51,Late,"6,04","15,84","9,94",5
+314,"19,27",4,Foggy,3,Medium,2,Morning,Car,29,"9,0",Senior,85,114,Very Late,"13,6","5,92","4,41",9
+460,"2,82",1,Rainy,3,Medium,2,Evening,Scooter,10,"1,0",Begginer,29,39,Normal,"5,83","13,83","10,28",6
+161,"7,67",3,Foggy,3,Medium,2,Afternoon,Scooter,22,"8,0",Senior,59,81,Very Late,"7,8","10,56","7,69",8
+277,"16,07",4,Clear,1,Medium,2,Evening,Bike,16,"5,0",Advanced,64,80,Very Late,"15,07","4,98","3,98",7
+956,"7,97",3,Windy,2,Medium,2,Evening,Scooter,9,"8,0",Senior,35,44,Normal,"13,66","5,52","4,39",7
+386,"16,17",4,Clear,1,Medium,2,Evening,Scooter,12,"2,0",Intermediate,78,90,Very Late,"12,44","5,57","4,82",7
+492,"12,59",4,Clear,1,Low,1,Evening,Scooter,10,"2,0",Intermediate,39,49,Late,"19,37","3,89","3,1",6
+770,"16,51",4,Clear,1,Medium,2,Morning,Bike,7,"1,0",Begginer,79,86,Very Late,"12,54","5,21","4,78",7
+309,"16,01",4,Clear,1,Low,1,Afternoon,Car,12,"4,0",Advanced,72,84,Very Late,"13,34","5,25","4,5",6
+662,"19,74",4,Rainy,3,High,3,Afternoon,Scooter,11,"7,0",Senior,81,92,Very Late,"14,62","4,66","4,1",10
+131,"8,64",3,Snowy,4,Low,1,Evening,Bike,29,"4,0",Advanced,62,91,Very Late,"8,36","10,53","7,18",8
+664,"5,13",2,Clear,1,Medium,2,Morning,Car,16,"1,0",Begginer,38,54,Late,"8,1","10,53","7,41",5
+872,"5,78",2,Clear,1,High,3,Morning,Bike,11,"5,0",Advanced,38,49,Late,"9,13","8,48","6,57",6
+100,"2,6",1,Clear,1,Low,1,Afternoon,Bike,16,"1,0",Begginer,29,45,Normal,"5,38","17,31","11,15",3
+373,"2,34",1,Foggy,3,Medium,2,Morning,Bike,8,"2,0",Intermediate,28,36,Normal,"5,01","15,38","11,97",6
+88,"12,93",4,Clear,1,Medium,2,Morning,Scooter,20,"8,0",Senior,58,78,Very Late,"13,38","6,03","4,49",7
+459,"1,6",1,Clear,1,Medium,2,Evening,Bike,14,"8,0",Senior,24,38,Normal,"4,0","23,75","15,0",4
+122,"17,97",4,Windy,2,Medium,2,Morning,Scooter,28,"7,0",Senior,92,120,Very Late,"11,72","6,68","5,12",8
+615,"17,53",4,Clear,1,Low,1,Afternoon,Bike,14,"6,0",Senior,79,93,Very Late,"13,31","5,31","4,51",6
+21,"12,43",4,Rainy,3,High,3,Morning,Bike,13,"6,0",Senior,70,83,Very Late,"10,65","6,68","5,63",10
+701,"10,89",3,Windy,2,Medium,2,Evening,Bike,7,"0,0",Begginer,58,65,Very Late,"11,27","5,97","5,33",7
+72,"4,37",2,Clear,1,Medium,2,Evening,Scooter,6,"7,0",Senior,25,31,Normal,"10,49","7,09","5,72",5
+107,"8,5",3,Clear,1,High,3,Evening,Car,13,"3,0",Intermediate,54,67,Very Late,"9,44","7,88","6,35",7
+271,"16,28",4,Rainy,3,Low,1,Morning,Scooter,8,"9,0",Senior,71,79,Very Late,"13,76","4,85","4,36",8
+861,"15,62",4,Snowy,4,High,3,Evening,Scooter,26,"2,0",Intermediate,81,107,Very Late,"11,57","6,85","5,19",11
+436,"14,17",4,Clear,1,Low,1,Afternoon,Bike,8,"0,0",Begginer,55,63,Very Late,"15,46","4,45","3,88",6
+103,"6,63",2,Foggy,3,Low,1,Night,Scooter,24,"3,0",Intermediate,58,82,Very Late,"6,86","12,37","8,75",6
